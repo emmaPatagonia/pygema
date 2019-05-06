@@ -1,0 +1,16 @@
+#! /bin/bash
+
+nohup python do_autopick.py &
+nohup python do_autoloc.py &
+nohup python do_rsam_and_ssam.py &
+
+nohup python export_helicorder.py &
+nohup python export_waveforms.py &
+nohup python export_triggers.py &
+nohup python export_seismicity_rate.py &
+
+nohup python export_kml.py &
+#nohup python sync.py & 
+#nohup python web/PyGema_Web/manage.py runserver xx.xx.xx.xx:port &
+
+ps aux | grep python

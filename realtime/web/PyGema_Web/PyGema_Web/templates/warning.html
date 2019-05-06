@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link  active" href="{% url 'warning-figure' %}">Figure</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link  "  href="{% url 'warning-table' %}">Table</a>
+  </li>
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade show active" id="seismicity">
+
+
+
+<div class="jumbotron" >
+<div class="text-center"><img  id="img1" src="{% static '/figs_html/warnings_rsam.svg' %}" width="500px" padding="500px"  class="img-fluid">
+</div>
+
+ </div> 
+</div>
+
+{% endblock %}

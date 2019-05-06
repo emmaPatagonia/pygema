@@ -1,0 +1,68 @@
+.SUFFIXES : .o .cpp .c
+
+OBJS =\
+ cartesian.o\
+ velmod.o\
+ position.o\
+ livloc.o
+
+LIB = liblivloc.a
+INCLUDES     = 
+DEFINES      =
+CCFLAGS      = -ggdb -Wall
+LDFLAGS      =
+CXXFLAGS     = $(CCFLAGS) $(DEFINES) $(INCLUDES)
+CFLAGS       = $(CCFLAGS) $(DEFINES) $(INCLUDES)
+
+AR = ar -rs
+CCPLUS = g++
+CC     = gcc
+
+.cpp.o: ; $(CCPLUS) -c $(CXXFLAGS) $*.cpp
+.c.o: ; $(CC) -c $(CFLAGS) $*.c
+
+all: $(LIB)
+
+$(LIB): $(OBJS) 
+	$(RM) $@
+	$(AR) $@ $(OBJS)
+	cp $(LIB) ../lib/$(LIB)
+
+clean:
+	$(RM) *.o *~ $(LIB) Makefile.bak Makefile.BAK
+
+depend:
+	makedepend $(INCLUDES) *.cpp
+
+# DO NOT DELETE
+
+cartesian.o: cartesian.h position.h /usr/include/values.h
+cartesian.o: /usr/include/features.h /usr/include/sys/cdefs.h
+cartesian.o: /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h
+cartesian.o: /usr/include/gnu/stubs-32.h /usr/include/limits.h
+cartesian.o: /usr/include/bits/posix1_lim.h /usr/include/bits/local_lim.h
+cartesian.o: /usr/include/linux/limits.h /usr/include/bits/posix2_lim.h
+livloc.o: livloc.h position.h /usr/include/values.h /usr/include/features.h
+livloc.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
+livloc.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h
+livloc.o: /usr/include/limits.h /usr/include/bits/posix1_lim.h
+livloc.o: /usr/include/bits/local_lim.h /usr/include/linux/limits.h
+livloc.o: /usr/include/bits/posix2_lim.h velmod.h uTravelTime.h uConst.h
+livloc.o: cartesian.h TNT/tnt.h TNT/tnt_version.h TNT/tnt_math_utils.h
+livloc.o: TNT/tnt_array1d.h TNT/tnt_i_refvec.h TNT/tnt_array2d.h
+livloc.o: TNT/tnt_array3d.h TNT/tnt_array1d_utils.h TNT/tnt_array2d_utils.h
+livloc.o: TNT/tnt_array3d_utils.h TNT/tnt_fortran_array1d.h
+livloc.o: TNT/tnt_fortran_array2d.h TNT/tnt_fortran_array3d.h
+livloc.o: TNT/tnt_fortran_array1d_utils.h TNT/tnt_fortran_array2d_utils.h
+livloc.o: TNT/tnt_fortran_array3d_utils.h TNT/tnt_sparse_matrix_csr.h
+livloc.o: TNT/tnt_stopwatch.h /usr/include/time.h /usr/include/bits/time.h
+livloc.o: /usr/include/bits/types.h /usr/include/bits/typesizes.h
+livloc.o: /usr/include/xlocale.h TNT/tnt_subscript.h TNT/tnt_vec.h
+livloc.o: TNT/tnt_cmat.h TNT/jama_svd.h
+position.o: position.h /usr/include/values.h /usr/include/features.h
+position.o: /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h
+position.o: /usr/include/gnu/stubs.h /usr/include/gnu/stubs-32.h
+position.o: /usr/include/limits.h /usr/include/bits/posix1_lim.h
+position.o: /usr/include/bits/local_lim.h /usr/include/linux/limits.h
+position.o: /usr/include/bits/posix2_lim.h
+velmod.o: velmod.h uTravelTime.h uConst.h

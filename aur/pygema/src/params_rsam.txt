@@ -1,0 +1,2 @@
+# twin(s) freqmin(hz) freqmax(hz)
+60           1.0        10.0

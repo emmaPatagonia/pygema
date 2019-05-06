@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+{% load staticfiles %}
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'copahue' %}">Copahue</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'callaqui' %}">Callaqui</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link "  href="{% url 'lonquimay' %}">Lonquimay</a>
+  </li>
+      <li class="nav-item">
+    <a class="nav-link"  href="{% url 'tolhuaca' %}">Tolhuaca</a>
+  </li>
+</ul>
+<div class="jumbotron"> 
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'volcano' %}">Station</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'callaqui' %}">Camara</a>
+  </li>
+</ul>
+
+
+<div class="jumbotron" >
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'volcano' %}">Cop2</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "  href="{% url 'volcano-copa' %}">Copa</a>
+  </li>
+</ul>
+
+
+  <div class="tab-pane fade show active" id="call">
+    <div class="jumbotron"> <img id="img1" src="{% static '/figs_html/COP2/COP2_rsam_and_ssam.jpg' %}"  width="600px"  class="rounded mx-auto d-block">
+     <div class="jumbotron">  <img id="img1" src="{% static '/figs_html/COP2/COP2_helicorder.jpg' %}"  width="600px"  class="rounded mx-auto d-block">
+</div>
+</div>
+</div>
+</div>
+</div>
+
+{% endblock %}
+
+

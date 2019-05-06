@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block content %}
+{% load staticfiles %}
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link "  href="{% url 'home' %}">Figure</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link "  href="{% url 'seismicity' %}">Seismicity</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active "  href="{% url 'localization-table' %}">Table</a>
+  </li>
+     <li class="nav-item">
+    <a class="nav-link "  href="{% url 'localization' %}">Map</a>
+  </li>
+
+</ul>
+
+
+    <div  class="text-center">
+ <p class="lead">
+    <a class="btn btn-secondary btn-lg" href="http://gema.udec.cl/admin" role="button">Advanced search</a>
+  </p>
+  </div>  
+
+<table class="table table-hover" id="tabla">
+  <thead>
+
+      <tr class="table-table-light">
+      <th scope="col">Time</th>
+      <th scope="col">Longitude</th>
+      <th scope="col">Latitude</th>
+      <th scope="col">depth</th>
+      <th scope="col">Magnitude</th>
+      <th scope="col">Status</th>
+      <th scope="col">Info</th>
+
+
+
+    </tr>
+  </thead>
+  {% for loc in object_list %}
+  <tbody>
+    <tr class="table-dark">
+            <td>{{ loc.time }}</td>
+            <td>{{ loc.longitude }}</td>
+            <td>{{ loc.latitude }}</td>
+            <td>{{ loc.depth}}</td>
+            <td >{{ loc.magnitude}}</td>
+            <td >{{ loc.status }}</td>
+            <td ><a target="_blank"  rel="noopener noreferrer" href="/static/reports/automatic/{{ loc.time.isoformat }}/waveforms.jpg">Wave</a>
+              <a target="_blank"  rel="noopener noreferrer" href="/static/reports/automatic/{{ loc.time.isoformat }}/map.jpg">Map</a></td>
+
+    </tr>
+
+  
+
+
+
+
+
+  </tbody>
+   {% endfor %}
+</table> 
+  <div  class="text-center">
+ <p class="lead">
+    <a class="btn btn-secondary btn-lg" href="http://gema.udec.cl/static/gema.kml" role="button">Live Stream</a>
+  </p>
+  </div>  
+
+
+{% endblock %}
+
+

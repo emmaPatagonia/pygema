@@ -1,0 +1,10 @@
+{% extends "baseexpand.html" %}
+{% load staticfiles %}
+{% block content %}
+   <div  class="text-center">
+ 
+<a  href="{% url 'seismicity' %}"><img  id="img1" src="{% static '/figs_html/seismicity_time_serie.jpg' %}" width="85%" 
+padding="85%"  class="img-fluid">
+</a>
+</div>
+{% endblock %}

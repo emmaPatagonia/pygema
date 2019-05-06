@@ -1,0 +1,2 @@
+# len_sta, len_lta, trig_on, trig_off, freqmin, freqmax
+    1.0      45.0     5.0     0.5      5.0      10.0 

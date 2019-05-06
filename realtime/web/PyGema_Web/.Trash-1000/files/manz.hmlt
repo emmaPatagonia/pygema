@@ -1,0 +1,31 @@
+<div class="jumbotron"> 
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="{% url 'cop2' %}">Cop2</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="{% url 'copa' %}">Copa</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link " data-toggle="tab" href="{% url 'call' %}">Call</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="{% url 'maya' %}">Maya</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link  active" data-toggle="tab" href="{% url 'lonq' %}">Lonq</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="{% url 'manz' %}">Manz</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="{% url 'tol1' %}">Tol1</a>
+  </li>
+</ul>
+
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade show active" id="lonq">
+    <p>lonq</p>
+  </div>
+</div>
+</div>

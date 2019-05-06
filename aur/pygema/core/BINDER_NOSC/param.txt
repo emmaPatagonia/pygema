@@ -1,0 +1,28 @@
+# a '#' as the first character of a line implies it is a comment
+eventThreshold: 3
+associationThreshold: 2.0
+pToSVelocityRatio: 1.77
+pPickResidualCutoff: 0.8
+sPickResidualCutoff: 0.8
+pEventWindow: 90.0
+sEventWindow: 90.0
+eventCutoff: 120.0
+stackWindow: 90.0
+stackSpacing: 20.0
+stackDepth: 150.0
+eventFilename: events_binder_output.txt
+unusedPickFilename: unused.txt
+networkConfigFilename: info.dat
+velmodFilename: velmod.hdr
+depthStart:  0.0
+depthStep:   1.0
+maxDepthTry: 50
+# maxPRes: 2.0
+# maxSRes: 3.0
+# maxResOff: 40.0
+# maxSpickDiff: 100.0
+# maxCorrLength: 40.0
+# minAreaLong: FLT_MAX
+# maxAreaLong: -FLT_MAX
+# minAreaLat: FLT_MAX
+# maxAreaLat: -FLT_MAX

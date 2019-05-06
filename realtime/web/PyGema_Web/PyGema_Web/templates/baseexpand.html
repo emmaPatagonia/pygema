@@ -1,0 +1,60 @@
+{% load staticfiles %}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+	     <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://bootswatch.com/4/darkly/bootstrap.min.css" media="screen" >
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+         <link rel="stylesheet" href="https://bootswatch.com/_assets/css/custom.min.css">
+
+
+<script type="text/javascript">
+  function actualizar(){location.reload(true);}
+//Función para actualizar cada 4 segundos(4000 milisegundos)
+  setInterval("actualizar()",60000);
+</script>
+
+
+<title>{% block title %}Gema Udec{% endblock %}</title>
+
+
+
+
+</head>
+<body>
+ <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+        <div class="container">
+        <a href="../" class="navbar-brand">Gema</a>
+
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+
+ <div class="collapse navbar-collapse" id="navbarColor03">
+        <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/home/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/volcano/">Volcano</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="/station/">Station</a>
+      </li>  
+    </ul>
+        </nav>
+</div>
+
+    {% block content %} {% endblock %}
+    {% block footer %}
+    {% endblock %}
+</body>
+</html>
+
+
+
+
+

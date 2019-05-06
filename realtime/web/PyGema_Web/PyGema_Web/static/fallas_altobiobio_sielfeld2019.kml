@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Fallas y lineamientos_BioArau.kml</name>
+	<Folder>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">4</SimpleData>
+					<SimpleData name="Tipo">dextral strike slip</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.59819723640113,-38.75767358206963,0 -71.57407409211392,-38.72857264610644,0 -71.55033385487894,-38.70521531592563,0 -71.526593617644,-38.68568705626636,0 -71.50515082272214,-38.66730751776345,0 -71.48906872653077,-38.65045960746897,0 -71.47222078113192,-38.63054842246162,0 -71.45460712383304,-38.60987142002548,0 -71.43852463936429,-38.5842165986768,0 -71.42627172583622,-38.56660284045142,0 -71.40827498149973,-38.54362849681715,0 -71.39563923490579,-38.5298438462876,0 -71.37955726608685,-38.50495490400829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">2</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.65295294486268,-38.78256254045748,0 -71.65410166601924,-38.75767358206696,0 -71.65486748012363,-38.7285726461027,0 -71.65563329422802,-38.70023752424277,0 -71.65639910833241,-38.66845623891337,0 -71.65831364359332,-38.64509890873147,0 -71.66137690001078,-38.61638087981925,0 -71.66367434232387,-38.59455517784597,0 -71.66482306348044,-38.5731123829249,0 -71.66520597053265,-38.54477726106497,0 -71.66520597053267,-38.51873958151803,0 -71.6652059705327,-38.49423353017975,0 -71.66482306348053,-38.46972747884146,0 -71.66290852821965,-38.44368979929462,0 -71.66137690001094,-38.42262991142584,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">1</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.61810840311425,-38.9556365280359,0 -71.61810840311426,-38.92691849912384,0 -71.61887421721862,-38.90624151830711,0 -71.6234691018448,-38.88824488685534,0 -71.62997852173184,-38.86948244129913,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">3</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.45192674246967,-38.95219036457317,0 -71.4442686014262,-38.90317826189681,0 -71.43890790269577,-38.86795081309818,0 -71.43661046038275,-38.84038150534264,0 -71.43354720396538,-38.8143438257958,0 -71.42665487702625,-38.79443265908365,0 -71.41823092187842,-38.76380009491102,0 -71.41133859493932,-38.73699660125995,0 -71.40368045389587,-38.71172473581755,0 -71.39602231285241,-38.68492124216652,0 -71.39295905643503,-38.65888356261966,0 -71.38721545065243,-38.62442192792533,0 -71.38147184486988,-38.58536540860505,0 -71.37687696024379,-38.56085935726687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">19</SimpleData>
+					<SimpleData name="Tipo">normal derecha</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.19154994699315,-37.81036153503524,0 -71.17049005912381,-37.79619397410564,0 -71.15211052061971,-37.78738711190625,0 -71.13641133148079,-37.78164350612408,0 -71.11573435066367,-37.77513408623768,0 -71.1019496967856,-37.77130501571626,0 -71.08088980891637,-37.76785885224711,0 -71.06365899156881,-37.76594431698655,0 -71.04719398832562,-37.76556140993458,0 -71.03379224149974,-37.76479559583043,0 -71.02689991456073,-37.76479559583052,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">18</SimpleData>
+					<SimpleData name="Tipo">normal izquierda</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.256644145862,-38.04470065095662,0 -71.23328681567962,-38.03551088170523,0 -71.20878076434072,-38.0278527406625,0 -71.18580634121054,-38.0201945996197,0 -71.16091738281953,-38.0125364585769,0 -71.14598400778495,-38.00985610921203,0 -71.13258226095904,-38.00411250342984,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>
+
+									</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">17</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.40904024471409,-38.12204817322805,0 -71.38089780842438,-38.10788018067262,0 -71.36251879568918,-38.09735005294169,0 -71.34203392030851,-38.08605404816833,0 -71.32059177371158,-38.07341788202799,0 -71.30719042790584,-38.06575959544098,0 -71.28689690187808,-38.05771832981275,0 -71.27119816029607,-38.05006001961203,0 -71.25741388296633,-38.04431626615411,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">16</SimpleData>
+					<SimpleData name="Tipo">normal izquierda</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.17278750143682,-37.91298062501478,0 -71.15670540524569,-37.90340794871103,0 -71.13947458789811,-37.89498399356376,0 -71.12071214234184,-37.88502841020787,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">15</SimpleData>
+					<SimpleData name="Tipo">dextral strike slip</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.28689380298353,-38.00909029510496,0 -71.26315356574891,-37.98688168608015,0 -71.24707146955775,-37.97118249694187,0 -71.23060646631443,-37.9554833078036,0 -71.21184402075811,-37.94054993276968,0 -71.19384738930613,-37.92638237184005,0 -71.17814820016717,-37.91604388143197,0 -71.17393622259333,-37.91412934617124,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">14</SimpleData>
+					<SimpleData name="Tipo">normal derecha</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.3221212517833,-38.04508355800728,0 -71.30450752738341,-38.03053309002559,0 -71.2926374087661,-38.01828006435669,0 -71.2872767100357,-38.00985610920927,0 -71.28459636067049,-37.99722017648802,0 -71.28459636067051,-37.975777381567,0 -71.28344763951399,-37.95739784306329,0 -71.28153310425314,-37.932891791725,0 -71.27655531257491,-37.91259771796058,0 -71.27004589268802,-37.89574980766562,0 -71.26468519395763,-37.88311387494442,0 -71.25702705291421,-37.87277538453624,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">13</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.61005867942217,-38.35639590771895,0 -71.58172331421147,-38.34414159306078,0 -71.55874861401161,-38.33533368821843,0 -71.53768863581357,-38.32499423715773,0 -71.52313847276494,-38.31274053688485,0 -71.51012013594749,-38.29857236570832,0 -71.49748463893167,-38.28555293540303,0 -71.48216931828,-38.26372650521631,0 -71.47336326163629,-38.2476439831347,0 -71.46379149736548,-38.22964688792896,0 -71.45536841661303,-38.21279856765345,0 -71.44732806586268,-38.19863061953837,0 -71.44043650828604,-38.18407981486548,0 -71.42990778229505,-38.1634024461477,0 -71.4178474922017,-38.1396617591371,0 -71.4109556660212,-38.12779145363577,0 -71.40674452663661,-38.10979413018956,0 -71.39449208039704,-38.09600897199726,0 -71.3799420704414,-38.08107493158256,0 -71.36347727962885,-38.0699699068156,0 -71.34701213554969,-38.06269384665818,0 -71.33782232690999,-38.05675831137962,0 -71.33016423555409,-38.05043987654499,0 -71.32518641179632,-38.04661058571851,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">12</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.67018376221108,-38.416886305643,0 -71.66099399295877,-38.40195293060918,0 -71.65103840960209,-38.38740246262755,0 -71.64146573329761,-38.37553234401103,0 -71.63342468520183,-38.36672548181172,0 -71.62538363710605,-38.36059896897752,0 -71.61581096080161,-38.35408954909122,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">11</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.32977939282665,-38.32383989198041,0 -71.29570066518336,-38.29014407139105,0 -71.27502368436612,-38.27597651046158,0 -71.25396379649675,-38.26525511300151,0 -71.22754320989701,-38.2510875520721,0 -71.20648332202764,-38.23960034050769,0 -71.18848669057567,-38.22619859368238,0 -71.17431912964543,-38.21777463853508,0 -71.15976866166299,-38.20781905517914,0 -71.14406947252408,-38.19709765771891,0 -71.12492411991563,-38.18407881794572,0 -71.10769330256807,-38.17374032753764,0 -71.09467446279433,-38.16569927944245,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">10</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.34471276786135,-38.35868443372667,0 -71.32480160114842,-38.28018848803416,0 -71.31790927420934,-38.2549166225917,0 -71.31025113316591,-38.23117638535789,0 -71.30450752738335,-38.209733590437,0 -71.29799810749644,-38.18867370256829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">9</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.3630923063656,-38.41535467744603,0 -71.34432986080918,-38.36021606193533,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">8</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.49404651820913,-38.49538225134357,0 -71.3887470788612,-38.43450003005336,0 -71.36615556278301,-38.42109828322836,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">7</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.57062792864444,-38.54324563286069,0 -71.50170465925267,-38.49959422891705,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">6</SimpleData>
+					<SimpleData name="Tipo">linea</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.51931838365272,-38.58383378039181,0 -71.43431301806983,-38.55396703032623,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">5</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.59130490946202,-38.60336204004908,0 -71.5641185087574,-38.59876715542431,0 -71.53846373626155,-38.59264064259077,0 -71.52008419775706,-38.5845995944961,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">29</SimpleData>
+					<SimpleData name="Tipo">inferida - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.25243216828807,-38.40310165177959,0 -71.31867508831374,-38.32364843845459,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">27</SimpleData>
+					<SimpleData name="Tipo">inferida - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.0491085235863,-38.66998786713955,0 -71.17202168733236,-38.52065411679469,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">26</SimpleData>
+					<SimpleData name="Tipo">linea - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.43450447159597,-38.57215511530393,0 -71.44752331136992,-38.55683883321705,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">25</SimpleData>
+					<SimpleData name="Tipo">inferida - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-70.93193896562335,-38.18790788846981,0 -70.9836314176658,-38.14081032105341,0 -71.00622293374367,-38.11975043318427,0 -71.02613410045636,-38.10251961583677,0 -71.07667783134247,-38.0550391413681,0 -71.10577876730727,-38.02900146182071,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">24</SimpleData>
+					<SimpleData name="Tipo">inferida - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.48715419127022,-38.01215355151657,0 -71.50553372977467,-38.00526122457701,0 -71.51740384839215,-37.99760308353336,0 -71.5262107105922,-37.99224238480279,0 -71.53922955036623,-37.98381842965476,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">23</SimpleData>
+					<SimpleData name="Tipo">linea - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.84134321453756,-38.10634868633059,0 -71.90260834288776,-38.03589378872869,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">22</SimpleData>
+					<SimpleData name="Tipo">inferida - NW</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.6789906244114,-38.2824859303341,0 -71.72876854119508,-38.22887894302894,0 -71.74867970790862,-38.20667033400248,0 -71.77241994514405,-38.18139846855847,0 -71.79386274006643,-38.15918985953184,0 -71.82143204782382,-38.12932310946155,0 -71.83981158632881,-38.107114500435,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">21</SimpleData>
+					<SimpleData name="Tipo">normal izquierda</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.58058351200116,-38.39927258124775,0 -71.56220397349662,-38.39199734725746,0 -71.54535606320081,-38.38548792737141,0 -71.52429617533112,-38.3759152510682,0 -71.51548931313106,-38.37093745939043,0 -71.50400210156579,-38.36327931834765,0 -71.49251489000051,-38.35447245614836,0 -71.48179349253961,-38.3448997798447,0 -71.47068918802651,-38.33149803301944,0 -71.4634139540352,-38.32039372850702,0 -71.45805325530475,-38.30660907462941,0 -71.45422418478302,-38.29435604896037,0 -71.45230964952215,-38.27903976687399,0 -71.45154383541781,-38.26410639183973,0 -71.45116092836564,-38.24879010975332,0 -71.44962930015694,-38.23194219945827,0 -71.44350277790669,-38.21011650003756,0 -71.44005667604831,-38.19709768111603,0 -71.43584464340647,-38.18599340651515,0 -71.43507878301082,-38.17795228910807,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">20</SimpleData>
+					<SimpleData name="Tipo">inferida</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.65678201538478,-38.42339572553039,0 -71.63648794161925,-38.4172692126968,0 -71.61964003132334,-38.41229142101949,0 -71.60049467871441,-38.4069307222901,0 -71.58173223315768,-38.40003839535203,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<Style>
+				<LineStyle>
+					<color>808000</color>				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#">
+					<SimpleData name="id">28</SimpleData>
+					<SimpleData name="Tipo">sinistral-reverse strike slip</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-71.17278750143669,-38.51969684916429,0 -71.25243216828805,-38.40252729120136,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

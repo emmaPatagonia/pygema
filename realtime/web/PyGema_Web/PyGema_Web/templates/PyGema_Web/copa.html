@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'cop2' %}">Cop2</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'copa' %}">Copa</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "  href="{% url 'call' %}">Call</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'maya' %}">Maya</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link"  href="{% url 'lonq' %}">Lonq</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link"  href="{% url 'manz' %}">Manz</a>
+  </li>
+   <li class="nav-item">
+    <a class="nav-link"  href="{% url 'tol1' %}">Tol1</a>
+  </li>
+</ul>
+<div class="jumbotron"> 
+ 
+ <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+     <img src="{% static '/figs_html/COPA/COPA_rsam_and_ssam.jpg' %}"  width="600px"  class="img-fluid">
+</div>
+ <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <img id="img1" src="{% static '/figs_html/COPA/COPA_helicorder.jpg' %}"  width="600px"  class="img-fluid">
+</div>
+
+</div>
+{% endblock %}
+
+

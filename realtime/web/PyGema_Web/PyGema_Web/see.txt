@@ -1,0 +1,2 @@
+sshfs gema@192.168.1.201:/home/gema/GEMA/PyGEMA/figs_html/SEISMIC_EVENTS /home/gema/Documentos/django/django-gema/static/remote 
+

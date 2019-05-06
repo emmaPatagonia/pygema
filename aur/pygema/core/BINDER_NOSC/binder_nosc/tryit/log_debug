@@ -1,0 +1,4665 @@
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+Using 15 = 15 + 00 observations
+
+RMS: 721501420666307328.000000 849412397.287859  P: 721501420666307328.000000 849412397.287859   S: nan nan
+Iter: 00 RMS: 721501420666307328.000000
+Condition number 69.572987 ==> rank: 4
+Average location shift: 283137470.505865
+==> AFTER:: RMS: 5.663493 -2.149941  P: 5.663493 -2.149941   S: nan nan
+RMS: 5.663493 -2.149941  P: 5.663493 -2.149941   S: nan nan
+Iter: 01 RMS: 5.663493
+Condition number 202.838895 ==> rank: 4
+Average location shift: 0.535115
+==> AFTER:: RMS: 5.458639 -2.086897  P: 5.458639 -2.086897   S: nan nan
+RMS: 5.458639 -2.086897  P: 5.458639 -2.086897   S: nan nan
+Iter: 02 RMS: 5.458639
+Condition number 174.123607 ==> rank: 4
+Average location shift: 0.044655
+==> AFTER:: RMS: 5.048808 -1.985925  P: 5.048808 -1.985925   S: nan nan
+RMS: 5.048808 -1.985925  P: 5.048808 -1.985925   S: nan nan
+Iter: 03 RMS: 5.048808
+Condition number 160.726009 ==> rank: 4
+Average location shift: 0.029409
+==> AFTER:: RMS: 4.912985 -1.952008  P: 4.912985 -1.952008   S: nan nan
+RMS: 4.912985 -1.952008  P: 4.912985 -1.952008   S: nan nan
+Iter: 04 RMS: 4.912985
+Condition number 159.348331 ==> rank: 4
+Average location shift: 0.005028
+==> AFTER:: RMS: 4.903615 -1.949744  P: 4.903615 -1.949744   S: nan nan
+RMS: 4.903615 -1.949744  P: 4.903615 -1.949744   S: nan nan
+Iter: 05 RMS: 4.903615
+Condition number 159.763192 ==> rank: 4
+Average location shift: 0.000672
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.874306 NEW: 2.499309
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 11 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 12 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 13 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 14 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 15 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 16 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 17 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 18 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 00 RMS: 1.874306
+Condition number 404.928095 ==> rank: 4
+Average location shift: 0.185037
+==> AFTER:: RMS: 2.499309 -1.548658  P: 2.499309 -1.548658   S: nan nan
+==> BACK:: RMS: 1.874306 -1.330968  P: 1.874306 -1.330968   S: nan nan
+Iter: 19 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 721501421835659776.000000 849412397.976189  P: 721501421835659776.000000 849412397.976189   S: nan nan
+Iter: 00 RMS: 721501421835659776.000000
+Condition number 64.622055 ==> rank: 4
+Average location shift: 283137471.045322
+==> AFTER:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan ndepth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 4.349046 NEW: 4.818302
+depth fixed!!
+an
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 01 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 00 RMS: 4.349046
+Condition number 131.756310 ==> rank: 4
+Average location shift: 0.655117
+==> AFTER:: RMS: 4.818302 -1.933224  P: 4.818302 -1.933224   S: nan nan
+==> BACK:: RMS: 4.349046 -1.826621  P: 4.349046 -1.826621   S: nan nan
+Iter: 11 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Conditiondepth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.617778 NEW: 2.325596
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+ number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 12 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 13 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 14 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 15 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 16 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 17 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 18 Cut: 10
+Using 10 = 10 + 00 observations
+
+RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 00 RMS: 1.617778
+Condition number 518333.557837 ==> rank: 4
+Average location shift: 1.090767
+==> AFTER:: RMS: 2.325596 -1.488294  P: 2.325596 -1.488294   S: nan nan
+==> BACK:: RMS: 1.617778 -1.233433  P: 1.617778 -1.233433   S: nan nan
+Iter: 19 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 721501421344785792.000000 849412397.687240  P: 721501421344785792.000000 849412397.687240   S: nan nan
+Iter: 00 RMS: 721501421344785792.000000
+Condition number 60.259554 ==> rank: 4
+Average location shift: 283137469.773896
+==> AFTER:: RMS: 1.457037 -0.988434  P: 1.457037 -0.988434   S: nan nan
+RMS: 1.457037 -0.988434  P: 1.457037 -0.988434   S: nan nan
+Iter: 01 RMS: 1.457037
+Condition number 129.694197 ==> rank: 4
+Average location shift: 0.252203
+==> AFTER:: RMS: 1.323720 -0.909194  P: 1.323720 -0.909194   S: nan nan
+RMS: 1.323720 -0.909194  P: 1.323720 -0.909194   S: nan nan
+Iter: 02 RMS: 1.323720
+Condition number 120.313506 ==> rank: 4
+Average location shift: 0.049142
+==> AFTER:: RMS: 1.280620 -0.883375  P: 1.280620 -0.883375   S: nan nan
+RMS: 1.280620 -0.883375  P: 1.280620 -0.883375   S: nan nan
+Iter: 03 RMS: 1.280620
+Condition number 116.117438 ==> rank: 4
+Average location shift: 0.008145
+==> AFTER:: RMS: 1.262708 -0.873223  P: 1.262708 -0.873223   S: nan nan
+RMS: 1.262708 -0.873223  P: 1.262708 -0.873223   S: nan nan
+Iter: 04 RMS: 1.262708
+Condition number 115.529536 ==> rank: 4
+Average location shift: 0.001280
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.8RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+23325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 11 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 12 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.550448 NEW: 0.823325
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+0.634687   S: nan nan
+Iter: 13 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 14 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 15 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 16 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 17 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 18 Cut: 10
+Using 13 = 13 + 00 observations
+
+RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 00 RMS: 0.550448
+Condition number 208.955602 ==> rank: 4
+Average location shift: 0.484768
+==> AFTER:: RMS: 0.823325 -0.818362  P: 0.823325 -0.818362   S: nan nan
+==> BACK:: RMS: 0.550448 -0.634687  P: 0.550448 -0.634687   S: nan nan
+Iter: 19 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 721501422582459520.000000 849412398.415787  P: 721501422582459520.000000 849412398.415787   S: nan nan
+Iter: 00 RMS: 721501422582459520.000000
+Condition number 55.634818 ==> rank: 4
+Average location shift: 212353106.516743
+==> AFTER:: RMS: 0.221985 -0.442384  P: 0.221985 -0.442384   S: nan nan
+RMS: 0.221985 -0.442384  P: 0.221985 -0.442384   S: nan nan
+Iter: 01 RMS: 0.221985
+Condition number 726.093778 ==> rank: 4
+Average location shift: 0.691609
+==> AFTER:: RMS: 0.039717 -0.138872  P: 0.039717 -0.138872   S: nan nan
+RMS: 0.039717 -0.138872  P: 0.039717 -0.138872   S: nan nan
+Iter: 02 RMS: 0.039717
+Condition number 514.114770 ==> rank: 4
+Average location shift: 0.145794
+==> AFTER:: RMS: 0.036028 -0.116257  P: 0.036028 -0.116257   S: nan nan
+RMS: 0.036028 -0.116257  P: 0.036028 -0.116257   S: nan nan
+Iter: 03 RMS: 0.036028
+Condition number 648.399694 ==> rank: 4
+Average location shift: 0.020490
+==> AFTER:: RMS: 0.034442 -0.107595  P: 0.034442 -0.107595   S: nan nan
+RMS: 0.034442 -0.107595  P: 0.034442 -0.107595   S: nan nan
+Iter: 04 RMS: 0.034442
+Condition number 446.093161 ==> rank: 4
+Average location shift: 0.010099
+==> AFTER:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 05 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nadepth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+n nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 11 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 12 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 13 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.034055 NEW: 0.034067
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 14 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 15 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 16 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 17 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 18 Cut: 10
+Using 15 = 15 + 00 observations
+
+RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 00 RMS: 0.034055
+Condition number 362.942774 ==> rank: 4
+Average location shift: 0.007931
+==> AFTER:: RMS: 0.034067 -0.104624  P: 0.034067 -0.104624   S: nan nan
+==> BACK:: RMS: 0.034055 -0.105057  P: 0.034055 -0.105057   S: nan nan
+Iter: 19 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 721501419819879168.000000 849412396.789616  P: 721501419795518336.000000 849412396.775276   S: 721501420185289600.000000 849412397.004712
+Iter: 00 RMS: 721501419819879168.000000
+Condition number 52.492264 ==> rank: 4
+Average location shift: 212353104.494442
+==> AFTER:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 01 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 obdepth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+servations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 11 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 12 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 13 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 14 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 15 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Itedepth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.675656 NEW: 1.511013
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+r: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 16 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 17 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 18 Cut: 10
+Using 16 = 15 + 01 observations
+
+RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 00 RMS: 0.675656
+Condition number 81.197435 ==> rank: 4
+Average location shift: 4.850960
+==> AFTER:: RMS: 1.511013 0.961538  P: 1.476194 0.930578   S: 2.033286 1.425933
+==> BACK:: RMS: 0.675656 0.532014  P: 0.720575 0.570365   S: 0.001871 -0.043251
+Iter: 19 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 721501425483855616.000000 849412400.123671  P: 721501425680842368.000000 849412400.239626   S: 721501424006454016.000000 849412399.254010
+Iter: 00 RMS: 721501425483855616.000000
+Condition number 33.528672 ==> rank: 4
+Average location shift: 212353103.204134
+==> AFTER:: RMS: 0.071159 0.106979  P: 0.060512 0.168185   S: 0.151014 -0.352064
+RMS: 0.071159 0.106979  P: 0.060512 0.168185   S: 0.151014 -0.352064
+Iter: 01 RMS: 0.071159
+Condition number 35.103082 ==> rank: 4
+Average location shift: 1.517717
+==> AFTER:: RMS: 0.003195 0.005797  P: 0.001841 0.021412   S: 0.013353 -0.111320
+RMS: 0.003195 0.005797  P: 0.001841 0.021412   S: 0.013353 -0.111320
+Iter: 02 RMS: 0.003195
+Condition number 32.336680 ==> rank: 4
+Average location shift: 0.293985
+==> AFTER:: RMS: 0.000165 0.001067  P: 0.000105 0.004414   S: 0.000615 -0.024037
+RMS: 0.000165 0.001067  P: 0.000105 0.004414   S: 0.000615 -0.024037
+Iter: 03 RMS: 0.000165
+Condition number 33.783566 ==> rank: 4
+Average location shift: 0.067362
+==> AFTER:: RMS: 0.000018 0.001494  P: 0.000019 0.002187   S: 0.000014 -0.003704
+RMS: 0.000018 0.001494  P: 0.000019 0.002187   S: 0.000014 -0.003704
+Iter: 04 RMS: 0.000018
+Condition number 50.356572 ==> rank: 4
+Average location shift: 0.022101
+==> AFTER:: RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 05 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 =Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683376
+depth fixed!!
+depth fixed!!
+ 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 11 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 12 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 13 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 14 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 15 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 16 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 17 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 18 Cut: 10
+Using 17 = 15 + 02 observations
+
+RMS: 0.000009 0.001063  P: 0.000010 0.001195   S: 0.000002 0.000072
+Iter: 00 RMS: 0.000009
+Condition number 32.922558 ==> rank: 4
+Average location shift: 0.004647
+Iter: 19 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 721501420566193792.000000 849412397.228928  P: 721501420319664768.000000 849412397.083810   S: 721501421798839552.000000 849412397.954515
+Iter: 00 RMS: 721501420566193792.000000
+Condition number 35.355275 ==> rank: 4
+Average location shift: 212353105.650754
+==> AFTER:: RMS: 3.664498 1.515000  P: 2.240324 1.169431   S: 10.785367 3.242847
+RMS: 3.664498 1.515000  P: 2.240324 1.169431   S: 10.785367 3.242847
+Iter: 01 RMS: 3.664498
+Condition number 30.667394 ==> rank: 4
+Average location shift: 5.227335
+==> AFTER:: RMS: 3.055366 1.650297  P: 2.319902 1.482176   S: 6.732687 2.490906
+RMS: 3.055366 1.650297  P: 2.319902 1.482176   S: 6.732687 2.490906
+Iter: 02 RMS: 3.055366
+Condition number 322.722786 ==> rank: 4
+Average location shift: 3.191947
+==> AFTER:: RMS: 0.442140 -0.235089  P: 0.331616 -0.457744   S: 0.994760 0.878186
+RMS: 0.442140 -0.235089  P: 0.331616 -0.457744   S: 0.994760 0.878186
+Iter: 03 RMS: 0.442140
+Condition number 74.780954 ==> rank: 4
+Average location shift: 6.108461
+==> AFTER:: RMS: 1.683376 -1.135100  P: 1.737526 -1.207922   S: 1.412629 -0.770992
+==> BACK:: RMS: 0.442140 -0.235089  P: 0.331616 -0.457744   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235089  P: 0.331616 -0.457744   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780998 ==> rank: 4
+Average location shift: 6.108456
+==> AFTER::RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683374
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+ RMS: 1.683374 -1.135099  P: 1.737523 -1.207921   S: 1.412627 -0.770990
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 11 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.442140 NEW: 1.683355
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+-0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 12 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 13 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 14 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 15 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 16 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 17 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 18 Cut: 10
+Using 18 = 15 + 03 observations
+
+RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 00 RMS: 0.442140
+Condition number 74.780648 ==> rank: 4
+Average location shift: 6.108415
+==> AFTER:: RMS: 1.683355 -1.135090  P: 1.737505 -1.207914   S: 1.412604 -0.770974
+==> BACK:: RMS: 0.442140 -0.235090  P: 0.331617 -0.457745   S: 0.994759 0.878185
+Iter: 19 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 721501423391616000.000000 849412398.892091  P: 721501422641292800.000000 849412398.450419   S: 721501426205328000.000000 849412400.548360
+Iter: 00 RMS: 721501423391616000.000000
+Condition number 20.519359 ==> rank: 4
+Average location shift: 212353105.004267
+==> AFTER:: RMS: 2.452539 1.502623  P: 1.745068 1.303471   S: 5.105559 2.249445
+RMS: 2.452539 1.502623  P: 1.745068 1.303471   S: 5.105559 2.249445
+Iter: 01 RMS: 2.452539
+Condition number 19.791849 ==> rank: 4
+Average location shift: 2.959775
+==> AFTER:: RMS: 0.026168 0.094823  P: 0.009408 0.054875   S: 0.089016 0.244630
+RMS: 0.026168 0.094823  P: 0.009408 0.054875   S: 0.089016 0.244630
+Iter: 02 RMS: 0.026168
+Condition number 19.044546 ==> rank: 4
+Average location shift: 0.737878
+==> AFTER:: RMS: 0.008425 -0.060953  P: 0.009652 -0.092776   S: 0.003824 0.058384
+RMS: 0.008425 -0.060953  P: 0.009652 -0.092776   S: 0.003824 0.058384
+Iter: 03 RMS: 0.008425
+Condition number 25.475059 ==> rank: 4
+Average location shift: 0.523676
+==> AFTER:: RMS: 0.001309 0.033865  P: 0.000991 0.030087   S: 0.002504 0.048032
+RMS: 0.001309 0.033865  P: 0.000991 0.030087   S: 0.002504 0.048032
+Iter: 04 RMS: 0.001309
+Condition number 53.619731 ==> rank: 4
+Average location shift: 0.200132
+==> AFTER:: RMS: 0.000962 -0.025584  P: 0.000821 -0.025805   S: 0.001492 -0.024757
+RMS: 0.000962 -0.025584  P: 0.000821 -0.025805   S: 0.001492 -0.024757
+Iter: 05 RMS: 0.000962
+Condition number 18.691565 ==> rank: 4
+Average location shift: 0.145835
+==> AFTER:: RMS: 0.000133 0.009470  P: 0.000111 0.009051   S: 0.000217 0.011040
+RMS: 0.000133 0.009470  P: 0.000111 0.009051   S: 0.000217 0.011040
+Iter: 06 RMS: 0.000133
+Condition number 21.413275 ==> rank: 4
+Average location shift: 0.039643
+==> AFTER:: RMS: 0.000017 0.002784  P: 0.000017 0.002764   S: 0.000015 0.002857
+RMS: 0.000017 0.002784  P: 0.000017 0.002764   S: 0.000015 0.002857
+Iter: 07 RMS: 0.000017
+Condition number 23.356099 ==> rank: 4
+Average location shift: 0.008801
+==> AFTER:: RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 08 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 11 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 12 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 13 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 14 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 15 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.00Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+depth fixed!!
+3036
+Iter: 16 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 17 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 18 Cut: 10
+Using 19 = 15 + 04 observations
+
+RMS: 0.000008 0.001155  P: 0.000010 0.001274   S: 0.000003 0.000708
+Iter: 00 RMS: 0.000008
+Condition number 23.646026 ==> rank: 4
+Average location shift: 0.003036
+Iter: 19 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 721501420521583360.000000 849412397.202668  P: 721501420318068096.000000 849412397.082871   S: 721501421132129280.000000 849412397.562061
+Iter: 00 RMS: 721501420521583360.000000
+Condition number 23.327849 ==> rank: 4
+Average location shift: 212353104.692322
+==> AFTER:: RMS: 4.323033 1.666410  P: 2.452012 1.199513   S: 9.936094 3.067104
+RMS: 4.323033 1.666410  P: 2.452012 1.199513   S: 9.936094 3.067104
+Iter: 01 RMS: 4.323033
+Condition number 27.934627 ==> rank: 4
+Average location shift: 4.672357
+==> AFTER:: RMS: 2.890278 1.580941  P: 1.918741 1.333948   S: 5.804892 2.321919
+RMS: 2.890278 1.580941  P: 1.918741 1.333948   S: 5.804892 2.321919
+Iter: 02 RMS: 2.890278
+Condition number 84.749196 ==> rank: 4
+Average location shift: 5.056556
+==> AFTER:: RMS: 2.615531 -1.482399  P: 2.659114 -1.550619   S: 2.484780 -1.277738
+RMS: 2.615531 -1.482399  P: 2.659114 -1.550619   S: 2.484780 -1.277738
+Iter: 03 RMS: 2.615531
+Condition number 30.222905 ==> rank: 4
+Average location shift: 2.578016
+==> AFTER:: RMS: 0.425608 -0.561401  P: 0.397552 -0.567191   S: 0.509774 -0.544030
+RMS: 0.425608 -0.561401  P: 0.397552 -0.567191   S: 0.509774 -0.544030
+Iter: 04 RMS: 0.425608
+Condition number 21.199188 ==> rank: 4
+Average location shift: 2.569275
+==> AFTER:: RMS: 0.007910 -0.051851  P: 0.001937 -0.021321   S: 0.025828 -0.143442
+RMS: 0.007910 -0.051851  P: 0.001937 -0.021321   S: 0.025828 -0.143442
+Iter: 05 RMS: 0.007910
+Condition number 55.717162 ==> rank: 4
+Average location shift: 0.398436
+==> AFTER:: RMS: 0.000997 -0.025033  P: 0.000403 -0.017047   S: 0.002779 -0.048990
+RMS: 0.000997 -0.025033  P: 0.000403 -0.017047   S: 0.002779 -0.048990
+Iter: 06 RMS: 0.000997
+Condition number 27.425889 ==> rank: 4
+Average location shift: 0.124428
+==> AFTER:: RMS: 0.000070 -0.007182  P: 0.000045 -0.005774   S: 0.000144 -0.011405
+RMS: 0.000070 -0.007182  P: 0.000045 -0.005774   S: 0.000144 -0.011405
+Iter: 07 RMS: 0.000070
+Condition number 22.959340 ==> rank: 4
+Average location shift: 0.025130
+==> AFTER:: RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 08 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: S 0
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 11 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 12 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 13 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 14 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 15 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 16 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 17 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 18 Cut: 10
+Using 20 = 15 + 05 observations
+
+RMS: 0.000013 -0.002388  P: 0.000014 -0.002303   S: 0.000011 -0.002644
+Iter: 00 RMS: 0.000013
+Condition number 46.511246 ==> rank: 4
+Average location shift: 0.003371
+Iter: 19 Cut: 10
+Using 21 = 15 + 06 observations
+
+RMS: 721501420457609600.000000 849412397.165011  P: 721501420321222400.000000 849412397.084727   S: 721501420798578304.000000 849412397.365719
+Iter: 00 RMS: 721501420457609600.000000
+Condition number 22.580540 ==> rank: 4
+Average location shift: 212353104.235662
+==> AFTER:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 01 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 3.749252 NEW: 4.502206
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Using 21 = 15 + 06 observations
+
+RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 00 RMS: 3.749252
+Condition number 26.864051 ==> rank: 4
+Average location shift: 5.648515
+==> AFTER:: RMS: 4.502206 2.069217  P: 3.470225 1.842845   S: 7.082157 2.635148
+==> BACK:: RMS: 3.749252 1.520283  P: 2.280221 1.119791   S: 7.421829 2.521513
+Iter: 11 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 12 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 13 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.8218RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+RMS values increasing, stopping iteration OLD: 1.185764 NEW: 1.189598
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+45  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 14 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 15 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 16 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 17 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 18 Cut: 10
+Using 14 = 12 + 02 observations
+
+RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 00 RMS: 1.185764
+Condition number 40.196522 ==> rank: 4
+Average location shift: 3.171683
+==> AFTER:: RMS: 1.189598 1.062362  P: 1.228458 1.080473   S: 0.956438 0.953697
+==> BACK:: RMS: 1.185764 0.821845  P: 1.002221 0.723834   S: 2.287027 1.409912
+Iter: 19 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 721501420818181376.000000 849412397.377259  P: 721501420818181376.000000 849412397.377259   S: nan nan
+Iter: 00 RMS: 721501420818181376.000000
+Condition number 67.395991 ==> rank: 4
+Average location shift: 283137470.497727
+==> AFTER:: RMS: 5.368665 -2.078833  P: 5.368665 -2.078833   S: nan nan
+RMS: 5.368665 -2.078833  P: 5.368665 -2.078833   S: nan nan
+Iter: 01 RMS: 5.368665
+Condition number 140.070129 ==> rank: 4
+Average location shift: 0.603131
+==> AFTER:: RMS: 5.065724 -1.988465  P: 5.065724 -1.988465   S: nan nan
+RMS: 5.065724 -1.988465  P: 5.065724 -1.988465   S: nan nan
+Iter: 02 RMS: 5.065724
+Condition number 123.981358 ==> rank: 4
+Average location shift: 0.112888
+==> AFTER:: RMS: 4.759285 -1.907111  P: 4.759285 -1.907111   S: nan nan
+RMS: 4.759285 -1.907111  P: 4.759285 -1.907111   S: nan nan
+Iter: 03 RMS: 4.759285
+Condition number 116.943081 ==> rank: 4
+Average location shift: 0.016397
+==> AFTER:: RMS: 4.660778 -1.880851  P: 4.660778 -1.880851   S: nan nan
+RMS: 4.660778 -1.880851  P: 4.660778 -1.880851   S: nan nan
+Iter: 04 RMS: 4.660778
+Condition number 114.965740 ==> rank: 4
+Average location shift: 0.004339
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011 depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.998395 NEW: 2.549934
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+  S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Using 12 = 12 + 00 observations
+
+RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 00 RMS: 1.998395
+Condition number 239.034007 ==> rank: 4
+Average location shift: 0.139047
+==> AFTER:: RMS: 2.549934 -1.545432  P: 2.549934 -1.545432   S: nan nan
+==> BACK:: RMS: 1.998395 -1.355011  P: 1.998395 -1.355011   S: nan nan
+Iter: 11 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 12 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 13 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 14 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Conditiodepth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.760168 NEW: 2.324119
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+n number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 15 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 16 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 17 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 18 Cut: 10
+Using 11 = 11 + 00 observations
+
+RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 00 RMS: 1.760168
+Condition number 249.843705 ==> rank: 4
+Average location shift: 0.148380
+==> AFTER:: RMS: 2.324119 -1.486729  P: 2.324119 -1.486729   S: nan nan
+==> BACK:: RMS: 1.760168 -1.282815  P: 1.760168 -1.282815   S: nan nan
+Iter: 19 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 721501421470536704.000000 849412397.761262  P: 721501421470536704.000000 849412397.761262   S: nan nan
+Iter: 00 RMS: 721501421470536704.000000
+Condition number 59.730317 ==> rank: 4
+Average location shift: 212353107.051572
+==> AFTER:: RMS: 0.443916 -0.664636  P: 0.443916 -0.664636   S: nan nan
+RMS: 0.443916 -0.664636  P: 0.443916 -0.664636   S: nan nan
+Iter: 01 RMS: 0.443916
+Condition number 54.483810 ==> rank: 4
+Average location shift: 0.958253
+==> AFTER:: RMS: 0.001996 -0.043694  P: 0.001996 -0.043694   S: nan nan
+RMS: 0.001996 -0.043694  P: 0.001996 -0.043694   S: nan nan
+Iter: 02 RMS: 0.001996
+Condition number 53.224537 ==> rank: 4
+Average location shift: 0.158517
+==> AFTER:: RMS: 0.000054 -0.006645  P: 0.000054 -0.006645   S: nan nan
+RMS: 0.000054 -0.006645  P: 0.000054 -0.006645   S: nan nan
+Iter: 03 RMS: 0.000054
+Condition number 60.784785 ==> rank: 4
+Average location shift: 0.009082
+==> AFTER:: RMS: 0.000020 -0.002957  P: 0.000020 -0.002957   S: nan nan
+RMS: 0.000020 -0.002957  P: 0.000020 -0.002957   S: nan nan
+Iter: 04 RMS: 0.000020
+Condition number 53.371629 ==> rank: 4
+Average location shift: 0.018259
+==> AFTER:: RMS: 0.000009 -0.000964  P: 0.000009 -0.000964   S: nan nan
+RMS: 0.000009 -0.000964  P: 0.000009 -0.000964   S: nan nan
+Iter: 05 RMS: 0.000009
+Condition number 52.377753 ==> rank: 4
+Average location shift: 0.005003
+==> AFTER:: RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 06 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 0Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+0 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 11 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 12 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 13 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 14 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 15 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 16 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 17 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 18 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.000008 -0.000354  P: 0.000008 -0.000354   S: nan nan
+Iter: 00 RMS: 0.000008
+Condition number 53.392800 ==> rank: 4
+Average location shift: 0.001180
+Iter: 19 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 721501420292323712.000000 849412397.067716  P: 721501420159000192.000000 849412396.989236   S: 721501422425500032.000000 849412398.323394
+Iter: 00 RMS: 721501420292323712.000000
+Condition number 52.592682 ==> rank: 4
+Average location shift: 212353106.273261
+==> AFTER:: RMS: 3.406214 1.467440  P: 2.616340 1.308810   S: 16.044190 4.005520
+RMS: 3.406214 1.467440  P: 2.616340 1.308810   S: 16.044190 4.005520
+Iter: 01 RMS: 3.406214
+Condition number 39.317937 ==> rank: 4
+Average location shift: 2.720711
+==> AFTER:: RMS: 1.798967 1.120570  P: 1.419099 1.015195   S: 7.876848 2.806572
+RMS: 1.798967 1.120570  P: 1.419099 1.015195   S: 7.876848 2.806572
+Iter: 02 RMS: 1.798967
+Condition number 67.271132 ==> rank: 4
+Average location shift: 6.410165
+==> AFTER:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 03 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observatiodepth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.975752 NEW: 1.077029
+depth fixed!!
+ns
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Using 17 = 16 + 01 observations
+
+RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 00 RMS: 0.975752
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 1.077029 -0.522604  P: 0.895449 -0.679990   S: 3.982306 1.995571
+==> BACK:: RMS: 0.975752 -0.151443  P: 0.690941 -0.307919   S: 5.532727 2.352175
+Iter: 11 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.2depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.690941 NEW: 0.895449
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+22129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 12 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 13 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 14 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 15 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 16 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 17 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 18 Cut: 10
+Using 16 = 16 + 00 observations
+
+RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 00 RMS: 0.690941
+Condition number 84.222129 ==> rank: 4
+Average location shift: 6.083493
+==> AFTER:: RMS: 0.895449 -0.679990  P: 0.895449 -0.679990   S: nan nan
+==> BACK:: RMS: 0.690941 -0.307919  P: 0.690941 -0.307919   S: nan nan
+Iter: 19 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 721501421929190528.000000 849412398.031245  P: 721501421736984704.000000 849412397.918105   S: 721501425004484864.000000 849412399.841493
+Iter: 00 RMS: 721501421929190528.000000
+Condition number 61.503401 ==> rank: 4
+Average location shift: 283137469.234188
+==> AFTER:: RMS: 1.970504 -1.143499  P: 2.078120 -1.246133   S: 0.248646 0.498644
+RMS: 1.970504 -1.143499  P: 2.078120 -1.246133   S: 0.248646 0.498644
+Iter: 01 RMS: 1.970504
+Condition number 1113.171638 ==> rank: 4
+Average location shift: 5.520759
+==> AFTER:: RMS: 0.745582 -0.516549  P: 0.708692 -0.621069   S: 1.335815 1.155775
+RMS: 0.745582 -0.516549  P: 0.708692 -0.621069   S: 1.335815 1.155775
+Iter: 02 RMS: 0.745582
+Condition number 21.888573 ==> rank: 4
+Average location shift: 2.721780
+==> AFTER:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 03 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.66995RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+4 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 11 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S:depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.193961 NEW: 0.655625
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+ 0.479653 0.692570
+Iter: 12 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 13 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 14 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 15 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 16 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 17 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 18 Cut: 10
+Using 17 = 16 + 01 observations
+
+RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 00 RMS: 0.193961
+Condition number 140.435533 ==> rank: 4
+Average location shift: 4.001312
+==> AFTER:: RMS: 0.655625 -0.669624  P: 0.669954 -0.752286   S: 0.426356 0.652959
+==> BACK:: RMS: 0.193961 -0.146713  P: 0.176105 -0.199168   S: 0.479653 0.692570
+Iter: 19 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 721501424088522112.000000 849412399.302319  P: 721501423692090112.000000 849412399.068962   S: 721501427259978752.000000 849412401.169172
+Iter: 00 RMS: 721501424088522112.000000
+Condition number 46.714205 ==> rank: 4
+Average location shift: 212353111.257507
+==> AFTER:: RMS: 4.811289 2.135305  P: 5.074889 2.208463   S: 2.702483 1.550037
+RMS: 4.811289 2.135305  P: 5.074889 2.208463   S: 2.702483 1.550037
+Iter: 01 RMS: 4.811289
+Condition number 599269.102176 ==> rank: 4
+Average location shift: 3.144432
+==> AFTER:: RMS: 0.204144 -0.229501  P: 0.103297 -0.141510   S: 1.010918 -0.933431
+RMS: 0.204144 -0.229501  P: 0.103297 -0.141510   S: 1.010918 -0.933431
+Iter: 02 RMS: 0.204144
+Condition number 35.195385 ==> rank: 4
+Average location shift: 2.530923
+==> AFTER:: RMS: 0.023057 -0.001333  P: 0.007244 0.041683   S: 0.149556 -0.345459
+RMS: 0.023057 -0.001333  P: 0.007244 0.041683   S: 0.149556 -0.345459
+Iter: 03 RMS: 0.023057
+Condition number 31.577121 ==> rank: 4
+Average location shift: 1.506891
+==> AFTER:: RMS: 0.009092 -0.088093  P: 0.006442 -0.077659   S: 0.030288 -0.171564
+RMS: 0.009092 -0.088093  P: 0.006442 -0.077659   S: 0.030288 -0.171564
+Iter: 04 RMS: 0.009092
+Condition number 476322.220445 ==> rank: 4
+Average location shift: 0.298212
+==> AFTER:: RMS: 0.002930 -0.042777  P: 0.001841 -0.035937   S: 0.011643 -0.097490
+RMS: 0.002930 -0.042777  P: 0.00depth fixed!!
+1841 -0.035937   S: 0.011643 -0.097490
+Iter: 05 RMS: 0.002930
+Condition number 675153.612674 ==> rank: 4
+Average location shift: 0.054997
+==> AFTER:: RMS: 0.001943 -0.028064  P: 0.001129 -0.021889   S: 0.008452 -0.077462
+RMS: 0.001943 -0.028064  P: 0.001129 -0.021889   S: 0.008452 -0.077462
+Iter: 06 RMS: 0.001943
+Condition number 55.849517 ==> rank: 4
+Average location shift: 0.200395
+==> AFTER:: RMS: 0.000155 -0.009370  P: 0.000121 -0.008173   S: 0.000432 -0.018948
+RMS: 0.000155 -0.009370  P: 0.000121 -0.008173   S: 0.000432 -0.018948
+Iter: 07 RMS: 0.000155
+Condition number 48.254980 ==> rank: 4
+Average location shift: 0.054544
+==> AFTER:: RMS: 0.000009 -0.000747  P: 0.000009 -0.000501   S: 0.000009 -0.002714
+RMS: 0.000009 -0.000747  P: 0.000009 -0.000501   S: 0.000009 -0.002714
+Iter: 08 RMS: 0.000009
+Condition number 31.266878 ==> rank: 4
+Average location shift: 0.010709
+==> AFTER:: RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 09 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 11 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 12 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 13 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 14 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+IterPhase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 15 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 16 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 17 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 18 Cut: 10
+Using 18 = 16 + 02 observations
+
+RMS: 0.000007 -0.000262  P: 0.000008 -0.000157   S: 0.000001 -0.001097
+Iter: 00 RMS: 0.000007
+Condition number 64.694604 ==> rank: 4
+Average location shift: 0.002771
+Iter: 19 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 721501420329543680.000000 849412397.089626  P: 721501420165003904.000000 849412396.992771   S: 721501421207089536.000000 849412397.606186
+Iter: 00 RMS: 721501420329543680.000000
+Condition number 26.358697 ==> rank: 4
+Average location shift: 212353106.352100
+==> AFTER:: RMS: 5.421123 2.091054  P: 3.823747 1.796203   S: 13.940458 3.663594
+RMS: 5.421123 2.091054  P: 3.823747 1.796203   S: 13.940458 3.663594
+Iter: 01 RMS: 5.421123
+Condition number 112.668914 ==> rank: 4
+Average location shift: 1.877007
+==> AFTER:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 02 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 11 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 12 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 13 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 14 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 15 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 16 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 1.481803 NEW: 1.484380
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+671603
+Iter: 17 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 18 Cut: 10
+Using 19 = 16 + 03 observations
+
+RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 00 RMS: 1.481803
+Condition number 1173.254885 ==> rank: 4
+Average location shift: 3.532772
+==> AFTER:: RMS: 1.484380 -0.633772  P: 1.500860 -0.972652   S: 1.396487 1.173586
+==> BACK:: RMS: 1.481803 -0.709858  P: 1.611503 -0.968882   S: 0.790068 0.671603
+Iter: 19 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 721501424085137664.000000 849412399.300327  P: 721501423740733952.000000 849412399.097596   S: 721501425462752896.000000 849412400.111249
+Iter: 00 RMS: 721501424085137664.000000
+Condition number 22.473679 ==> rank: 4
+Average location shift: 212353102.764372
+==> AFTER:: RMS: 0.208747 -0.086612  P: 0.163440 -0.263441   S: 0.389973 0.620701
+RMS: 0.208747 -0.086612  P: 0.163440 -0.263441   S: 0.389973 0.620701
+Iter: 01 RMS: 0.208747
+Condition number 33.649408 ==> rank: 4
+Average location shift: 2.005366
+==> AFTER:: RMS: 0.079326 0.127628  P: 0.014398 0.017909   S: 0.339037 0.566505
+RMS: 0.079326 0.127628  P: 0.014398 0.017909   S: 0.339037 0.566505
+Iter: 02 RMS: 0.079326
+Condition number 30.729850 ==> rank: 4
+Average location shift: 0.761971
+==> AFTER:: RMS: 0.029917 -0.037622  P: 0.020469 -0.111442   S: 0.067709 0.257656
+RMS: 0.029917 -0.037622  P: 0.020469 -0.111442   S: 0.067709 0.257656
+Iter: 03 RMS: 0.029917
+Condition number 28.096676 ==> rank: 4
+Average location shift: 0.403848
+==> AFTER:: RMS: 0.013337 0.000015  P: 0.006218 -0.050566   S: 0.041813 0.202335
+RMS: 0.013337 0.000015  P: 0.006218 -0.050566   S: 0.041813 0.202335
+Iter: 04 RMS: 0.013337
+Condition number 29.345436 ==> rank: 4
+Average location shift: 0.257209
+==> AFTER:: RMS: 0.006523 0.004329  P: 0.002647 -0.030809   S: 0.022028 0.144884
+RMS: 0.006523 0.004329  P: 0.002647 -0.030809   S: 0.022028 0.144884
+Iter: 05 RMS: 0.006523
+Condition number 37.749785 ==> rank: 4
+Average location shift: 0.210138
+==> AFTER:: RMS: 0.003615 -0.012069  P: 0.002399 -0.036502   S: 0.008478 0.085660
+RMS: 0.003615 -0.012069  P: 0.002399 -0.036502   S: 0.008478 0.085660
+Iter: 06 RMS: 0.003615
+Condition number 32.055507 ==> rank: 4
+Average location shift: 0.161672
+==> AFTER:: RMS: 0.002118 -0.016093  P: 0.001741 -0.032300   S: 0.003629 0.048736
+RMS: 0.002118 -0.016093  P: 0.001741 -0.032300   S: 0.003629 0.048736
+Iter: 07 RMS: 0.002118
+Condition number 17.892781 ==> rank: 4
+Average location shift: 0.156588
+==> AFTER:: RMS: 0.000891 -0.017312  P: 0.000931 -0.025544   S: 0.000729 0.015618
+RMS: 0.000891 -0.017312  P: 0.000931 -0.025544   S: 0.000729 0.015618
+Iter: 08 RMS: 0.000891
+Condition number 16.647952 ==> rank: 4
+Average location shift: 0.073776
+==> AFTER:: RMS: 0.000247 -0.008882  P: 0.000269 -0.013399   S: 0.000162 0.009185
+RMS: 0.000247 -0.008882  P: 0.000269 -0.013399   S: 0.000162 0.009185
+Iter: 09 RMS: 0.000247
+Condition number 28.137342 ==> rank: 4
+Average location shift: 0.061446
+==> AFTER:: RMS: 0.000218 -0.010719  P: 0.000244 -0.012485   S: 0.000115 -0.003658
+RMS: 0.000218 -0.010719  P: 0.000244 -0.012485   S: 0.000115 -0.003658
+Iter: 10 RMS: 0.000218
+Condition number 28.157740 ==> rank: 4
+Average location shift: 0.026623
+==> AFTER:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 11 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition numbeRMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+r 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 11 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+RMS values increasing, stopping iteration OLD: 0.000049 NEW: 0.000229
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 12 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 13 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 14 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 15 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 16 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 17 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 18 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 00 RMS: 0.000049
+Condition number 56.481706 ==> rank: 4
+Average location shift: 0.059262
+==> AFTER:: RMS: 0.000229 -0.012614  P: 0.000158 -0.011117   S: 0.000514 -0.018605
+==> BACK:: RMS: 0.000049 -0.002236  P: 0.000055 -0.003805   S: 0.000025 0.004043
+Iter: 19 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 721501420271664384.000000 849412397.055555  P: 721501420194481408.000000 849412397.010122   S: 721501420518649984.000000 849412397.200941
+Iter: 00 RMS: 721501420271664384.000000
+Condition number 27.733485 ==> rank: 4
+Average location shift: 212353106.139852
+==> AFTER:: RMS: 5.519132 2.119471  P: 3.973818 1.836590   S: 10.464135 3.024688
+RMS: 5.519132 2.119471  P: 3.973818 1.836590   S: 10.464135 3.024688
+Iter: 01 RMS: 5.519132
+Condition number 76.316218 ==> rank: 4
+Average location shift: 2.735446
+==> AFTER:: RMS: 0.997489 0.254397  P: 0.707404 0.090770   S: 1.925763 0.778004
+RMS: 0.997489 0.254397  P: 0.707404 0.090770   S: 1.925763 0.778004
+Iter: 02 RMS: 0.997489
+Condition number 34.868943 ==> rank: 4
+Average location shift: 2.216912
+==> AFTER:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 03 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.652561 NEW: 0.653103
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Using 21 = 16 + 05 observations
+
+RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 00 RMS: 0.652561
+Condition number 71.433857 ==> rank: 4
+Average location shift: 0.785982
+==> AFTER:: RMS: 0.653103 0.580561  P: 0.516077 0.506309   S: 1.091587 0.818168
+==> BACK:: RMS: 0.652561 0.531661  P: 0.424959 0.422405   S: 1.380887 0.881280
+Iter: 11 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMSdepth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+depth fixed!!
+RMS values increasing, stopping iteration OLD: 0.396067 NEW: 0.568957
+depth fixed!!
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+depth fixed!!
+: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 12 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 13 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 14 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 15 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 16 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 17 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 18 Cut: 10
+Using 20 = 16 + 04 observations
+
+RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 00 RMS: 0.396067
+Condition number 76.801813 ==> rank: 4
+Average location shift: 0.866720
+==> AFTER:: RMS: 0.568957 0.603388  P: 0.587183 0.586028   S: 0.496057 0.672829
+==> BACK:: RMS: 0.396067 0.438010  P: 0.424959 0.422405   S: 0.280496 0.500431
+Iter: 19 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 721501421917649920.000000 849412398.024452  P: 721501421582746496.000000 849412397.827314   S: 721501422989341184.000000 849412398.655295
+Iter: 00 RMS: 721501421917649920.000000
+Condition number 24.155636 ==> rank: 4
+Average location shift: 212353105.878719
+==> AFTER:: RMS: 1.109688 0.963020  P: 0.690397 0.786357   S: 2.451417 1.528343
+RMS: 1.109688 0.963020  P: 0.690397 0.786357   S: 2.451417 1.528343
+Iter: 01 RMS: 1.109688
+Condition number 79.362430 ==> rank: 4
+Average location shift: 3.853201
+==> AFTER:: RMS: 0.160576 0.103464  P: 0.113016 0.032324   S: 0.312770 0.331110
+RMS: 0.160576 0.103464  P: 0.113016 0.032324   S: 0.312770 0.331110
+Iter: 02 RMS: 0.160576
+Condition number 53.556939 ==> rank: 4
+Average location shift: 2.563680
+==> AFTER:: RMS: 0.009460 0.075662  P: 0.009216 0.087312   S: 0.010240 0.038382
+RMS: 0.009460 0.075662  P: 0.009216 0.087312   S: 0.010240 0.038382
+Iter: 03 RMS: 0.009460
+Condition number 21.590086 ==> rank: 4
+Average location shift: 0.305307
+==> AFTER:: RMS: 0.000357 -0.014785  P: 0.000216 -0.012622   S: 0.000809 -0.021705
+RMS: 0.000357 -0.014785  P: 0.000216 -0.012622   S: 0.000809 -0.021705
+Iter: 04 RMS: 0.000357
+Condition number 31.351389 ==> rank: 4
+Average location shift: 0.053946
+==> AFTER:: RMS: 0.000022 -0.003172  P: 0.000017 -0.002964   S: 0.000037 -0.003836
+RMS: 0.000022 -0.003172  P: 0.000017 -0.002964   S: 0.000037 -0.003836
+Iter: 05 RMS: 0.000022
+Condition number 26.540045 ==> rank: 4
+Average location shift: 0.011242
+==> AFTER:: RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 06 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 11 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 12 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 13 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 14 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 15 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 16 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 17 Cut: 10
+Using 21 = 16 + 05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 18 Cut: 10
+Using 21 = 16 + Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: P 1
+Phase: S 0
+Phase: P 1
+Phase: P 1
+Phase: S 0
+depth fixed!!
+05 observations
+
+RMS: 0.000011 -0.001924  P: 0.000012 -0.002137   S: 0.000008 -0.001240
+Iter: 00 RMS: 0.000011
+Condition number 52.740583 ==> rank: 4
+Average location shift: 0.002558
+Iter: 19 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 721501420339474688.000000 849412397.095472  P: 721501420166668160.000000 849412396.993750   S: 721501420800291968.000000 849412397.366728
+Iter: 00 RMS: 721501420339474688.000000
+Condition number 22.687798 ==> rank: 4
+Average location shift: 212353104.361790
+==> AFTER:: RMS: 4.187942 1.621745  P: 2.539247 1.212948   S: 8.584461 2.711869
+RMS: 4.187942 1.621745  P: 2.539247 1.212948   S: 8.584461 2.711869
+Iter: 01 RMS: 4.187942
+Condition number 23.138637 ==> rank: 4
+Average location shift: 4.954003
+==> AFTER:: RMS: 2.965206 1.630584  P: 2.066924 1.394502   S: 5.360627 2.260138
+RMS: 2.965206 1.630584  P: 2.066924 1.394502   S: 5.360627 2.260138
+Iter: 02 RMS: 2.965206
+Condition number 56.328847 ==> rank: 4
+Average location shift: 4.316321
+==> AFTER:: RMS: 0.799770 0.044374  P: 0.446343 -0.049589   S: 1.742240 0.294942
+RMS: 0.799770 0.044374  P: 0.446343 -0.049589   S: 1.742240 0.294942
+Iter: 03 RMS: 0.799770
+Condition number 32.429847 ==> rank: 4
+Average location shift: 3.380393
+==> AFTER:: RMS: 0.428617 0.364265  P: 0.181185 0.192325   S: 1.088437 0.822772
+RMS: 0.428617 0.364265  P: 0.181185 0.192325   S: 1.088437 0.822772
+Iter: 04 RMS: 0.428617
+Condition number 69.897563 ==> rank: 4
+Average location shift: 0.787500
+==> AFTER:: RMS: 0.290093 0.179567  P: 0.148429 0.038903   S: 0.667861 0.554671
+RMS: 0.290093 0.179567  P: 0.148429 0.038903   S: 0.667861 0.554671
+Iter: 05 RMS: 0.290093
+Condition number 55.085207 ==> rank: 4
+Average location shift: 3.354127
+==> AFTER:: RMS: 0.027054 -0.092979  P: 0.005900 -0.036220   S: 0.083464 -0.244334
+RMS: 0.027054 -0.092979  P: 0.005900 -0.036220   S: 0.083464 -0.244334
+Iter: 06 RMS: 0.027054
+Condition number 24.114371 ==> rank: 4
+Average location shift: 0.846514
+==> AFTER:: RMS: 0.003989 -0.053965  P: 0.001872 -0.040327   S: 0.009635 -0.090332
+RMS: 0.003989 -0.053965  P: 0.001872 -0.040327   S: 0.009635 -0.090332
+Iter: 07 RMS: 0.003989
+Condition number 23.294449 ==> rank: 4
+Average location shift: 0.269269
+==> AFTER:: RMS: 0.000395 -0.019037  P: 0.000314 -0.017284   S: 0.000614 -0.023711
+RMS: 0.000395 -0.019037  P: 0.000314 -0.017284   S: 0.000614 -0.023711
+Iter: 08 RMS: 0.000395
+Condition number 22.312616 ==> rank: 4
+Average location shift: 0.046616
+==> AFTER:: RMS: 0.000027 -0.004363  P: 0.000030 -0.004549   S: 0.000021 -0.003868
+RMS: 0.000027 -0.004363  P: 0.000030 -0.004549   S: 0.000021 -0.003868
+Iter: 09 RMS: 0.000027
+Condition number 21.704434 ==> rank: 4
+Average location shift: 0.005602
+==> AFTER:: RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 10 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 11 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 12 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 13 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 14 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 15 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 16 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 17 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 18 Cut: 10
+Using 22 = 16 + 06 observations
+
+RMS: 0.000009 -0.001136  P: 0.000010 -0.001398   S: 0.000005 -0.000437
+Iter: 00 RMS: 0.000009
+Condition number 46.337931 ==> rank: 4
+Average location shift: 0.003590
+Iter: 19 Cut: 10
+writing an event

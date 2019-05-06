@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>PyGEMA Earthquakes D.B.</name>
+    <visibility>1</visibility>
+    <open>1</open>
+    <LookAt>
+      <longitude>-71.5</longitude>
+      <latitude>-38.2</latitude>
+      <range>400000</range>
+      <tilt>0</tilt><heading>0</heading>
+    </LookAt>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/stations.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_last_day.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_last_month.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_older.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_automatic_last_day.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+    <NetworkLink>
+      <visibility>1</visibility>
+      <refreshVisibility>0</refreshVisibility>
+      <open>1</open>
+      <name>GEMA</name>
+      <Snippet maxLines="1">Updates every 10 seconds</Snippet>
+      <Link>
+        <href>http://gemaudec.dyndns.org:8090/gema/kml/fallas_altobiobio_sielfeld_etal_2019.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>10</refreshInterval>
+      </Link>
+    </NetworkLink>
+
+
+  </Document>
+</kml>

@@ -1,0 +1,45 @@
+paper which references this technique:
+
+Andreas' Maule one, but it doesn't go into details.
+
+0) do the analysis with the liverpool stations for 2010 as well as 2011
+
+1) andreas' program is binder_nosc_AR, this executable is compiled with static libraries.
+
+2) example.dat has example data as to how the triggers should be presented. You have to cat all ms_picker .picks files together, sort the second column (unix time) chronological order, and then use awk to put in the format of example.dat. Call this picker_input.txt
+
+sort -n -k2,2 test_all.dat | awk '{print $2,$1,"Z P 0 _"}' > picker_input.txt
+
+3) info.dat contains the station information. the last four lines (GRID stations) are the gridsearch boundaries.
+
+4) param.txt contains the parameter file. Can play with things such as number of station picks min (eventThreshold), time error (associationThreshold), max residuals etc.
+
+5) then run
+
+./binder_nosc_AR picker_input.txt param.txt
+
+this will generate events.txt. (time, lat, lon, depth [km], #picks, GAP, RMS ... and then the following lines contain individual station arrival times and if it is P or S).
+
+---------------------------------------------------------
+
+HOW THE PROGRAM WORKS
+
+The program generates defined nodes within a certain volume under the network. It calculates the origin time for each pick at each node, if there are clusters then the picks in the node-time cluster are considered in greater detail and located with hypo71 (unsing the initial node as the starting hypocentre, I assume).
+
+---------------------------------------------------------
+
+TO DO (16 OCT 2014)
+
+1) copy the MAULE_OBS directory to another place (FONDECYT_INI folder) and check that the program still runs.
+
+2) Reduce the # of picks threshold from 12 to ~6
+
+3) Change info.dat file to have the GRID at the end, and the stations I am using only so as to define the node distribition well.
+
+4) Take the output event arrival times and generate SAC files to see how the picks are.
+
+5) Ask steve for a 1D velmod more representative of the offshore part of MAULE. (Vp, depth, vp/vs).
+
+6) Long term ... add the french / US station ms_picks into the bunch.
+
+

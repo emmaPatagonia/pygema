@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>seismic_events_automatic_last_day.kml</name>
+   <Style id='normalPlacemark'>
+     <IconStyle>
+       <scale>1.0</scale>
+       <color>501400FF</color>
+       <Icon>
+         <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+       </Icon>
+     </IconStyle>
+   </Style>
+   <StyleMap id='exampleStyleMap'>
+     <Pair>
+       <key>normal</key>       <styleUrl>#normalPlacemark</styleUrl>
+     </Pair>
+   </StyleMap>
+</Document>
+</kml>

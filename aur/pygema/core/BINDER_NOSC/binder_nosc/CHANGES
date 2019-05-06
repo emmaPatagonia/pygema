@@ -1,0 +1,21 @@
+AR: 
+stacknode.cpp:
+Too many events were associated which had only active travel times from far distances
+  if(stationTimes[id]<35.0) {   // try to avoid flooding the stack with far distance travel times
+
+event.cpp:
+// now also check that we have enough observations close by....
+ // now check if there are still enough observations close by e.g. less than 20s
+  int tmp_no_picks=0;
+  for (miter = pickList.begin(); miter != pickList.end(); miter++) {
+        if(miter->distance < 20.0) {
+            tmp_no_picks++;
+        }
+  }
+  //if (pickList.size() < eventThreshold) {
+  if (tmp_no_picks < eventThreshold) {
+
+// also added the following line to fill up completely the pick class so that I can do some filtering on it
+                        pick.originTime = originTime;
+
+

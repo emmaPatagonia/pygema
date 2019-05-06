@@ -1,0 +1,2404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>seismic_events_manual_older.kml</name>
+   <Style id='normalPlacemark'>
+     <IconStyle>
+       <scale>1.4</scale>
+       <Icon>
+         <href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+       </Icon>
+     </IconStyle>
+   </Style>
+   <StyleMap id='exampleStyleMap'>
+     <Pair>
+       <key>normal</key>       <styleUrl>#normalPlacemark</styleUrl>
+     </Pair>
+   </StyleMap>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2017-01-21 00:16:36.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   0.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.4138
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8807
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   -0.960449
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   17.7646
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   35.8458
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   19.3437
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.4138,-37.8807,-0.960449</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-01-01 23:06:31.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.9
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.4693
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.171
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   9.00928
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   8.03735
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   5.94138
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.83722
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.4693,-38.171,9.00928</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-01-09 14:11:54.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.486
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.1638
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   6.21289
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   9.18515
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   11.7933
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.31793
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.486,-38.1638,6.21289</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-06-04 08:45:04.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.4561
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.1377
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   6.29981
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   8.08115
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.42659
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.8325
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.4561,-38.1377,6.29981</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-06-07 10:03:29.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.4677
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.1932
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   9.11768
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   6.02984
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.36196
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.15437
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.4677,-38.1932,9.11768</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-06-12 18:18:20.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.573
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.2389
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   8.92334
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   3.97673
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   2.88631
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   5.5258
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.573,-38.2389,8.92334</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2018-06-30 16:25:42.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.9
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.6024
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.3861
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   2.12158
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   2.20712
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   3.13264
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   4.64417
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.6024,-38.3861,2.12158</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-01-01 09:45:48.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.8
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.6383
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.3984
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   6.09131
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   3.7997
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   3.37667
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   3.92761
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.6383,-38.3984,6.09131</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-01-29 04:02:18.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.1
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.2488
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8135
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   10.833
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   29.1067
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   10.9554
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   13.8957
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.2488,-37.8135,10.833</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-21 14:05:24.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.2116
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7404
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   8.04883
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   13.4175
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   8.71177
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.43165
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.2116,-37.7404,8.04883</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-21 14:08:34.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.9
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1743
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7544
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.8057
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   17.8835
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   8.52748
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   12.5615
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1743,-37.7544,11.8057</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 02:47:22.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1412
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7643
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   18.3711
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   21.1733
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   11.9863
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   14.1724
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1412,-37.7643,18.3711</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 02:49:23.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0602
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7652
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   14.0732
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   17.685
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   29.3483
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   31.27
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0602,-37.7652,14.0732</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 07:13:47.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.7
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1001
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8452
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.1978
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   13.1786
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.74811
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.72379
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1001,-37.8452,11.1978</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 07:19:30.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.2343
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.743
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.8057
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   20.9218
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   13.7553
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   13.3516
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.2343,-37.743,11.8057</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 07:23:58.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.1
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0965
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7652
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   17.6416
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   19.8837
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   8.67116
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   14.11
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0965,-37.7652,17.6416</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 07:28:04.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.1
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1895
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7482
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   10.5898
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   20.3226
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   23.3912
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   14.2717
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1895,-37.7482,10.5898</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 11:58:20.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1682
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7586
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   14.2373
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   13.2986
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   5.94138
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.20435
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1682,-37.7586,14.2373</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 12:00:12.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.7
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0539
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7858
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   17.6416
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   14.4438
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   10.8583
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   14.5534
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0539,-37.7858,17.6416</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 12:29:33.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0394
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7736
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   19.9033
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   10.8907
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.90326
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   13.2187
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0394,-37.7736,19.9033</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 13:29:26.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.8
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0304
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7807
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   21.0459
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   11.1628
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   5.19319
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   12.491
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0304,-37.7807,21.0459</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 15:23:23.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1688
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7454
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.8057
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   22.8569
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   13.071
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   11.2102
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1688,-37.7454,11.8057</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 19:58:52.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.7
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.102
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7741
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   20.5596
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   17.9622
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.95421
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   11.3042
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.102,-37.7741,20.5596</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 20:25:35.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -70.9827
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7836
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.8057
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   9.48762
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.5404
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.33912
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-70.9827,-37.7836,11.8057</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 20:28:37.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   3.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -70.9513
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.786
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   9.49561
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   7.88213
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.68202
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.36026
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-70.9513,-37.786,9.49561</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 21:14:44.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0495
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.755
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   15.21
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   7.51532
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.65935
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   11.0835
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0495,-37.755,15.21</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 21:18:58.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.0
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0679
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7632
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   18.1543
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   27.613
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   17.3728
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   15.229
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0679,-37.7632,18.1543</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 21:27:38.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0902
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7738
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   20.0732
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   13.8703
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   10.6116
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.67187
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0902,-37.7738,20.0732</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 21:46:52.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0629
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7839
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   23.7207
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   8.89224
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   5.45831
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.08856
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0629,-37.7839,23.7207</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-22 21:54:25.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0473
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7692
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   18.4927
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   8.29669
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   3.75296
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.03735
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0473,-37.7692,18.4927</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 00:25:35.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1205
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7615
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   15.21
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   13.1518
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   16.3469
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   16.4652
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1205,-37.7615,15.21</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 02:39:47.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1002
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.75
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   14.9668
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   14.3334
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   7.58545
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   10.325
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1002,-37.75,14.9668</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 03:15:39.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0875
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7671
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   19.8301
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   11.942
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.82613
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   10.9554
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0875,-37.7671,19.8301</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 03:29:14.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.5
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -70.9875
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8057
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   21.0459
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   9.31869
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.53552
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.41292
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-70.9875,-37.8057,21.0459</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 03:55:24.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.9
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.2482
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8266
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   11.8057
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   11.942
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   9.45034
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.72379
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.2482,-37.8266,11.8057</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 06:23:19.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.8
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0291
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7774
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   19.9517
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   9.6353
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   5.06588
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.02994
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0291,-37.7774,19.9517</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 09:16:23.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.1341
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8495
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   12.292
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   14.8058
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   8.60988
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.4682
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.1341,-37.8495,12.292</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 10:23:14.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.6
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -70.9888
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7794
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   18.6143
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   7.32503
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.66691
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.18963
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-70.9888,-37.7794,18.6143</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-23 10:59:10.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0427
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7723
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   18.6143
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   8.48599
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   6.6956
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   13.5615
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0427,-37.7723,18.6143</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-02-24 06:56:40.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.8
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.0902
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7738
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   22.0186
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   15.6969
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   4.86323
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   9.79877
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.0902,-37.7738,22.0186</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-03-02 21:17:49.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   3.0
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -70.9924
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.7982
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   9.25244
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   4.77533
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   3.86418
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   7.07997
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-70.9924,-37.7982,9.25244</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-04 05:22:58.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.3
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.6348
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.3754
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   4.99707
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   27.8675
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   21.3394
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   18.3511
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.6348,-38.3754,4.99707</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-04 19:00:03.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.4
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.4379
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.9246
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   3.11255
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   2.70969
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   2.59659
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   6.92878
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.4379,-37.9246,3.11255</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-05 15:19:04.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   2.0
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.263
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.861
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   5.11865
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   2.94083
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   2.91673
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.58935
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.263,-37.861,5.11865</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Origin time'>
+               <value>
+                   2019-04-06 01:05:04.000000
+               </value>
+           </Data>
+           <Data name='Magnitude'>
+               <value>
+                   1.8
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.26
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.8609
+               </value>
+           </Data>
+           <Data name='Depth (km)'>
+               <value>
+                   5.60498
+               </value>
+           </Data>
+           <Data name='Status'>
+               <value>
+                   manual
+               </value>
+           </Data>
+           <Data name='Error X (km)'>
+               <value>
+                   2.86175
+               </value>
+           </Data>
+           <Data name='Error Y (km)'>
+               <value>
+                   3.3662
+               </value>
+           </Data>
+           <Data name='Error Z (km)'>
+               <value>
+                   8.29669
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.26,-37.8609,5.60498</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>

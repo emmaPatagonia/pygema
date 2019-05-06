@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block content %}
+{% load staticfiles %}
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'volcano' %}">Copahue</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'callaqui' %}">Callaqui</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'lonquimay' %}">Lonquimay</a>
+  </li>
+      <li class="nav-item">
+    <a class="nav-link"  href="{% url 'tolhuaca' %}">Tolhuaca</a>
+  </li>
+</ul>
+<div class="jumbotron"> 
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'lonquimay' %}">Station</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'volcano-cam-lonq' %}">Camara</a>
+  </li>
+</ul>
+
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'lonquimay' %}">LONQ</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link "  href="{% url 'volcano-manz' %}">MANZ</a>
+  </li>
+</ul>
+
+ <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+     <img src="{% static '/figs_html/LONQ/LONQ_rsam_and_ssam.jpg' %}"  width="600px"  class="img-fluid">
+</div>
+ <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+    <img id="img1" src="{% static '/figs_html/LONQ/LONQ_helicorder.jpg' %}"  width="600px"  class="img-fluid">
+</div>
+
+</div>
+
+{% endblock %}
+
+
+
+
+
+
+
+
+

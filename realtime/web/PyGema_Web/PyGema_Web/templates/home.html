@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link  active"  href="{% url 'home' %}">Figure</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link "  href="{% url 'seismicity' %}">Seismicity</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link  "  href="{% url 'localization-table' %}">Table</a>
+  </li>
+     <li class="nav-item">
+    <a class="nav-link "  href="{% url 'localization' %}">Map</a>
+  </li>
+
+</ul>
+<div id="myTabContent" class="tab-content">
+  <div class="tab-pane fade show active" id="seismicity">
+<div class="jumbotron" >
+
+<div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+<a  href="{% url 'max-trigg' %}"><img  id="img1" src="{% static '/figs_html/triggers_stalta.jpg' %}" width="800px" 
+padding="800px"  class="img-fluid">
+</a>
+</div>
+
+
+</div> 
+
+{% endblock %}

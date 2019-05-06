@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+{% load staticfiles %}
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link"  href="{% url 'volcano' %}">Copahue</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'volcano-cam-call' %}">Callaqui</a>
+  </li>
+    <li class="nav-item">
+    <a class="nav-link "  href="{% url 'lonquimay' %}">Lonquimay</a>
+  </li>
+      <li class="nav-item">
+    <a class="nav-link"  href="{% url 'tolhuaca' %}">Tolhuaca</a>
+  </li>
+</ul>
+<div class="jumbotron"> 
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link "  href="{% url 'callaqui' %}">Station</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active"  href="{% url 'volcano-cam-call' %}">Camara</a>
+  </li>
+</ul>
+  <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+     <img src="{% static '/img_html/Callaqui.jpeg' %}"  width="600px"  class="img-fluid">
+</div>
+
+ <div class="alert alert-dismissible alert-secondary">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+     <img src="{% static '/img_html/callaqui_gema.jpeg' %}"  width="600px"  class="img-fluid">
+</div>
+
+
+</div>
+
+{% endblock %}

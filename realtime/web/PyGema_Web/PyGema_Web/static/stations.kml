@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>stations.kml</name>
+   <Style id='normalPlacemark'>
+     <IconStyle>
+       <scale>1.2</scale>
+       <Icon>
+         <href>http://maps.google.com/mapfiles/kml/pal4/icon56.png</href>
+       </Icon>
+     </IconStyle>
+   </Style>
+   <StyleMap id='exampleStyleMap'>
+     <Pair>
+       <key>normal</key>       <styleUrl>#normalPlacemark</styleUrl>
+     </Pair>
+   </StyleMap>
+   <Placemark>
+       <name>C1.ML02</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   ML02
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.418098
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -35.7626
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   237.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.418098,-35.7626,237.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.BI02</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   BI02
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.273102
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -36.663399
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   913.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.273102,-36.663399,913.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.BI05</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   BI05
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -73.19051
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -36.74784
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   52.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-73.19051,-36.74784,52.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.BI03</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   BI03
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -73.025803
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -36.8438
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   196.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-73.025803,-36.8438,196.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.CALL</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   CALL
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.530828
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.903373
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   1007.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.530828,-37.903373,1007.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.COPA</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   COPA
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.243552
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.95503
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   1194.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.243552,-37.95503,1194.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.MAYA</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   MAYA
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.459041
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -37.992413
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   937.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.459041,-37.992413,937.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.COP2</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   COP2
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.305818
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.032703
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   942.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.305818,-38.032703,942.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.TOL1</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   TOL1
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.67816
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.372425
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   1381.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.67816,-38.372425,1381.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.LONQ</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   LONQ
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.565328
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.389073
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   2005.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.565328,-38.389073,2005.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.BI04</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   BI04
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -73.886223
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.41161
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   41.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-73.886223,-38.41161,41.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>GM.MANZ</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   GM
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   MANZ
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.683345
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.462052
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   1000.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.683345,-38.462052,1000.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.LC02</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   LC02
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -73.394707
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.791889
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   67.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-73.394707,-38.791889,67.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.LC01</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   LC01
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -71.876099
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -38.897499
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   406.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-71.876099,-38.897499,406.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.LC09</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   LC09
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.15313
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -39.486145
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   213.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.15313,-39.486145,213.0</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <name>C1.LR03</name>
+       <styleUrl>#exampleStyleMap</styleUrl>
+       <ExtendedData>
+           <Data name='Network'>
+               <value>
+                   C1
+               </value>
+           </Data>
+           <Data name='Station'>
+               <value>
+                   LR03
+               </value>
+           </Data>
+           <Data name='Longitude'>
+               <value>
+                   -72.345703
+               </value>
+           </Data>
+           <Data name='Latitude'>
+               <value>
+                   -39.632183
+               </value>
+           </Data>
+           <Data name='Altitude'>
+               <value>
+                   253.0
+               </value>
+           </Data>
+       </ExtendedData>
+       <Point>
+           <coordinates>-72.345703,-39.632183,253.0</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,17 @@
+# "(1) leer picks de todas las estaciones"
+# "(2) ordenarlos cronologicamente"
+# "(3***) corregir estaciones ovdas (vegz -> veg) sed 's/Z$//'"
+# "(4) seleccionar componente (vertical - Z)"
+
+picks_dir='./picks'
+pattern='Z P 0 _'
+cat ${picks_dir}/*.picks | sort -n -k2,2  | awk -v pat="$pattern" '{print $2, $1, pat}' > picker_input.txt
+
+# Localizar eventos
+./binder_nosc_AR picker_input.txt param.txt
+
+# Crear archivo de salida
+more events_binder.txt | awk '{if ( NF > 10 ) print $0}' > events.txt
+
+
+

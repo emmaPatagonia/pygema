@@ -1,0 +1,8 @@
+binder_nosc_debug_60s_sort_3 picks_t15_d5.dat param.txt >&out.log &
+binder_nosc_debug_60s_sort_3 picks_t15_d5_part2.dat param.txt >&out.log &
+binder_nosc_debug_60s_sort_3 picks_t15_d5_part3.dat param.txt >&out.log &
+binder_nosc_debug_60s_sort_3 picks_t15_d5_part3.dat paramf.txt >&out.log &
+cnv2cnv -k -d 1.1 <events_101231.cnv -e phases
+cnv2cnv -k -d 1.1 <events_101231.cnv -q > events_101231.list
+
+

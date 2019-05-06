@@ -1,0 +1,241 @@
+/*
+ * This file is part of binder.
+ *
+ * Copyright (C) 2009 Andy Heath, Stuart Nippress & Andreas Rietbrock,
+ *                    University of Liverpool
+ *
+ * This work was funded as part of the NERIES (JRA5) project.
+ * Additional funding for Nippress from NERC research grant NE/C000315/1
+ *
+ * binder is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * binder is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with binder.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+#include <iostream>
+#include <iomanip>
+#include <iterator>
+#include <algorithm>
+#include <fstream>
+#include <cmath>
+
+#include <scutil.h>
+#include <hypo71.h>
+#include <aehnll.h>
+
+#include "input.h"
+#include "uTravelTime.h"
+#include "binder.h"
+#include "velmod.h"
+#include "constants.h"
+#include "latencycheck.h"
+
+static Binder binder;
+static VelMod velmod;
+Constants constants;
+LatencyCheck latencyCheck;
+#ifndef USE_SEISCOMP
+static int ninputlines = 0;
+#endif
+
+//------------------------------------------------------------------------------------------
+
+// called whenever we need to compute a travel-time between 2 3D locations
+static float tt1d(const Position& src, const Position& rec)
+{
+  tDouble t, ain;
+  
+  //tDouble delta = sqrt((src.x - rec.x)*(src.x - rec.x) + (src.y - rec.y)*(src.y - rec.y));
+  tDouble delta = src.pythag2d(rec);
+  tDouble depth = 0.0 - src.z; // depth measured from sea-level (ignore station elevation)
+  
+  TravelTime1D(delta, depth, velmod.nl, velmod.v, velmod.top, t, ain);
+  
+  return float(t);
+}
+
+//------------------------------------------------------------------------------------------
+
+// called each time a new pick appears
+static int pickCB(PickPtr pickPtr, int pickWeight)
+{
+#ifndef USE_SEISCOMP
+  static int ninputcount = 0;
+  static int nlastprecent = -10;
+  
+  ninputcount++;
+  int temp = int(float(ninputcount)/float(ninputlines) * 100.0);
+  if (temp >= nlastprecent + 10) {
+    nlastprecent = temp;
+    std::cout << "complete: " << std::setfill(' ') << std::setw(3) << nlastprecent << "%" << std::endl;
+    std::cout.flush();
+  }
+#endif
+
+  if (latencyCheck.testPick(pickPtr)) {
+    if (binder.addPick(pickPtr, pickWeight)) {
+      // placeholder for debug stuff
+    }
+  }
+
+  return SCAEH_TRUE;
+}
+
+//------------------------------------------------------------------------------------------
+
+// entry point
+int main (int argc, char *const argv[])
+{
+  std::list<Station> stationList;
+  Binder::Param param;
+  std::ofstream out;
+  int rtnVal = 0;
+
+#ifndef USE_SEISCOMP
+  if (argc < 3) {
+    std::cerr << "usage: " << argv[0] << " <pickfile> <parameterfile>" << std::endl;
+    return -2;
+  }
+#endif
+
+  if (!constants.import(argv[0], argv[2])) {
+    std::cerr << argv[0] << ": problem with parameter file - exiting" << std::endl;
+    return -1;
+  }
+  
+  // parameters for use inside the Binder
+  param.ttFunc = tt1d;
+  param.stackSpacing = constants.stackSpacing;
+  param.stackDepth = constants.stackDepth;
+  param.stackWindow = constants.stackWindow;
+  param.associationThreshold = constants.associationThreshold;
+  param.eventThreshold = constants.eventThreshold;
+  param.pEventWindow = constants.pEventWindow;
+  param.sEventWindow = constants.sEventWindow;
+  param.pToSVelocityRatio = constants.pToSVelocityRatio;
+  param.eventCutoff = constants.eventCutoff;
+  param.pPickResidualCutoff = constants.pPickResidualCutoff;
+  param.sPickResidualCutoff = constants.sPickResidualCutoff;
+  param.eventFilename = constants.eventFilename;
+  param.unusedPickFilename = constants.unusedPickFilename;
+  param.networkConfigFilename = constants.networkConfigFilename;
+  param.velmodFilename = constants.velmodFilename;
+  param.hypo71Filename = constants.hypo71Filename;
+  param.latencyFilename = constants.latencyFilename;
+  param.latencyValue = constants.latencyValue;
+
+  if (!inputStations(param.networkConfigFilename, stationList)) {
+    std::cerr << argv[0] << ": could not import station information - exiting" << std::endl;
+    return -1;
+  }
+
+  if (!velmod.create(param.velmodFilename)) {
+    std::cerr << argv[0] << ": could not import velocity model - exiting" << std::endl;
+    return -1;
+  }
+  
+  if (!latencyCheck.create(param.latencyFilename, param.latencyValue)) {
+    std::cerr << argv[0] << ": could not open latency error file - exiting" << std::endl;
+    return -1;
+  }
+  
+  // setup of hypo71 (used by Binder)
+  if (!Hypo71::initialise("hypo71.log")) {
+    std::cerr << argv[0] << ": cannot setup the relocation algorithm (hypo71) - exiting" << std::endl;
+    return -1;
+  }
+
+  // setup of non-lin loc
+  if (!AehNLL::initialise("nllcontrol.txt")) {
+    std::cerr << argv[0] << ": cannot setup the relocation algorithm (NLL) - exiting" << std::endl;
+    return -1;
+  }
+  
+  if (!binder.create(param, stationList)) {
+    std::cerr << argv[0] << ": could not create the binder object - exiting" << std::endl;
+    return -1;
+  }
+  
+#ifdef MY_DEBUG
+/*
+  if (!binder.debugCreateSynthetics(stationList)) {
+    std::cerr << argv[0] << ": (DEBUG) cannot create synthetics - exiting" << std::endl;
+    return -1;
+  }
+*/
+#endif
+
+#ifndef USE_SEISCOMP
+  std::ifstream in;
+  in.open(argv[1]);
+  if (!in) {
+    std::cerr << argv[0] << ": cannot read from picks file - exiting" << std::endl;
+    return -1;
+  }
+  ninputlines = std::count(std::istreambuf_iterator<char>(in), std::istreambuf_iterator<char>(), '\n');
+  in.close();
+#endif
+
+#ifdef USE_SEISCOMP
+  if (SCAEH_connect("4803@localhost", "locator", "LOCATION") == SCAEH_FALSE) {
+    std::cerr << argv[0] << ": cannot make connection to SC - exiting" << std::endl;
+    return -1;
+  }
+#else
+  if (SCAEH_connectFile(argv[1]) == SCAEH_FALSE) {
+    std::cerr << argv[0] << ": cannot read from picks file - exiting" << std::endl;
+    return -1;
+  }
+#endif
+
+#ifdef USE_SEISCOMP
+  if (SCAEH_receivePicks("PICKER", pickCB) == SCAEH_FALSE) {
+#else
+  if (SCAEH_receivePicksFile(pickCB) == SCAEH_FALSE) {
+#endif
+    std::cerr << argv[0] << ": processing interrupted" << std::endl;
+    rtnVal = -1;
+  }
+
+#ifdef USE_SEISCOMP
+  if (SCAEH_disconnect() == SCAEH_FALSE) {
+#else
+  if (SCAEH_disconnectFile() == SCAEH_FALSE) {
+#endif
+    std::cerr << argv[0] << ": problems disconnecting from SC - exiting" << std::endl;
+    return -1;
+  }
+  
+  // write out any remaining picks still in the stack
+  binder.tidy();
+  
+  // close down hypo71
+  Hypo71::clean();
+  
+  // close down NLL
+  AehNLL::clean();
+
+  // output any events still remaining in the binder
+  out.open(binder.getEventFilename().c_str(), std::ios::app);
+  if (!out) {
+    std::cerr << argv[0] << ": cannot open output file to append remaining events" << std::endl;
+    return -1;
+  }
+  else {
+    out << binder;
+    out.close();
+  }
+  
+  std::cout << argv[0] << ": finished" << std::endl;
+  
+  return rtnVal;
+}

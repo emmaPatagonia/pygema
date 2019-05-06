@@ -1,0 +1,110 @@
+{% load staticfiles %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+     <link rel="stylesheet" href="https://bootswatch.com/4/darkly/bootstrap.min.css" media="screen" >
+     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+     <link rel="stylesheet" href="https://bootswatch.com/_assets/css/custom.min.css">
+
+
+    <title>KML Gema</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 95%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        color: #000000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div  class="text-center">
+    <script>
+      var map;
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 10000,
+          mapTypeId: 'satellite',
+          center: {lat: -37.9246, lng: -71.4379},
+          zoomControl: false,
+          scaleControl: true,
+
+        });
+        var layers0= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/fallas_altobiobio_sielfeld2019.kml',
+          map: map
+        });
+        var layers1= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/seismic_events_automatic_last_day.kml',
+          map: map
+        });
+        var layers2= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/seismic_events_manual_last_day.kml',
+          map: map
+        });
+        var layers3= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/seismic_events_manual_last_month.kml',
+          map: map
+        });
+        var layers4= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/seismic_events_manual_older.kml',
+          map: map
+        });
+        var layers5= new google.maps.KmlLayer({
+          url: 'http://gema.udec.cl/static/stations.kml',
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9oDP76O0AjLOCqdDyDEbmIEvdQmfxuYo&callback=initMap">
+    </script> 
+  </div>  
+
+
+
+   <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+        <div class="container">
+        <a href="../" class="navbar-brand">Gema</a>
+
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+
+ <div class="collapse navbar-collapse" id="navbarColor03">
+        <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/home/">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/volcano/">Volcano</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="/station/">Station</a>
+      </li>  
+    </ul>
+        </nav>
+
+      </div>
+    </div>
+
+
+  
+
+  </body>
+</html>
+{% endblock %}
