@@ -128,7 +128,6 @@ if flag=="yes":
             st += tr
 
         evmag = get_local_magnitude(st, stations, stlons, stlats, evtime, evlon, evlat, evdepth, freqmin=1, freqmax=10, max_epicenter_dist=100)
-        #subprocess.call( "rm %s/*sac" % (outdir_new) , shell=True)
 
         # update database
         print("+ Updating database ...")
@@ -138,6 +137,7 @@ if flag=="yes":
         # plot localization figures
         plot_map_event(evlon, evlat, evdepth, dlon=0.3, dlat=0.3, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=True, add_seismic_stations=True, add_ralco=True, add_labels=True, add_faults=True, dark_background=False, show_plot=False, savedir=outdir_new)
         plot_record_section(st.select(channel='*HZ'), stations, stlons, stlats, evtime, evlon, evlat, freqmin=1, freqmax=10, dark_background=False, show_plot=False, savedir=outdir_new)
+        subprocess.call( "rm %s/*sac" % (outdir_new) , shell=True)
 
         # send email
         print("+ Sending email ...")
