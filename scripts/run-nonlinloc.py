@@ -128,7 +128,7 @@ if flag=="yes":
             st += tr
 
         evmag = get_local_magnitude(st, stations, stlons, stlats, evtime, evlon, evlat, evdepth, freqmin=1, freqmax=10, max_epicenter_dist=100)
-        subprocess.call( "rm %s/*sac" % (outdir_new) , shell=True)
+        #subprocess.call( "rm %s/*sac" % (outdir_new) , shell=True)
 
         # update database
         print("+ Updating database ...")
