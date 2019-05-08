@@ -5,6 +5,8 @@ computation of RSAM and SSAM, magnitude calculation and sql data management.
 
 by Diego M. González-Vidal (diego@gema.udec.cl)
 
+contributors:
+   Marcelo Ramirez (marcelo@gema.udec.cl)
 
 ################################################################
 # PRE-REQUISITES (from yay)
