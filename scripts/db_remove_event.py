@@ -39,18 +39,18 @@ for idx in idxs:
     count = idx + 1
     if events_list[idx][0] == this_event[0]:
       if event[8] == 'manual':
-        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;32;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;32;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
       elif event[8] == 'confirmed':
-        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;33;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;33;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
       elif event[8] == 'automatic':
-        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;31;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = " --> [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;31;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
     else:
       if event[8] == 'manual':
-        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;32;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;32;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
       elif event[8] == 'confirmed':
-        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;33;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;33;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
       elif event[8] == 'automatic':
-        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml=%.1f  errX=%.1f errY=%.1f errZ=%.1f \x1b[0;31;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
+        pattern = "     [%i] %s    %.4f %.4f   %.2f km Ml %.1f  %.1f %.1f %.1f \x1b[0;31;40m %s \x1b[0m " % (count, event[0].strftime("%Y-%m-%d %H:%M:%S"), event[1], event[2], event[3], event[4], event[5], event[6], event[7], event[8] )
 
     print(pattern)
   except:
