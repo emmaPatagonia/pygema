@@ -8,6 +8,7 @@ by Diego M. González-Vidal (diego@gema.udec.cl)
 contributors:
    Marcelo Ramirez (marcelo@gema.udec.cl)
 
+
 ################################################################
 # PRE-REQUISITES (from yay)
 ################################################################
@@ -51,6 +52,8 @@ $ nano pygema/src/params_ssam.txt
 $ nano pygema/src/params_stalta.txt
 $ nano pygema/src/stationALL.lst
 $ nano pygema/db/email.py
+$ nano pygema/db/credentials.py
+$ nano pygema/db/client_gema.py
 
 
 +++++++++++ Configure BINDER NOSC for automatic localization
