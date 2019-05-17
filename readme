@@ -25,6 +25,7 @@ community/python-pillow
 community/shapelib
 community/sshfs
 core/gcc-fortran
+core/gcc-libs
 core/lib32-gcc-libs
 extra/jdk-openjdk
 extra/python-django
