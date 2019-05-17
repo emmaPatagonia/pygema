@@ -32,10 +32,11 @@ from pygema.db.ask import insert_triggers_stalta
 
 networks, stations, stlons, stlats, stalts = load_station_metadata()
 
-this_utc = UTCDateTime(2016,1,1)
-last_utc = UTCDateTime(2017,1,1)
+this_utc = UTCDateTime(2019,5,17,1)
+last_utc = UTCDateTime(2019,5,17,1,15)
 
-overlap_stalta = 0.2
+overlap_stalta = 0.1
+stream_length = 15*60
 
 while this_utc <= last_utc:
   starttime = this_utc
