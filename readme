@@ -24,7 +24,7 @@ community/python-pillow
 community/shapelib
 community/sshfs
 extra/jdk-openjdk
-
+extra/python-django
 
 ################################################################
 # INSTALLATION
