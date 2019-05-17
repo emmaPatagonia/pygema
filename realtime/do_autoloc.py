@@ -77,6 +77,9 @@ while True:
           st, gaps = get_streams_gema(networks, stations, t1, t2, only_vertical_channel=True, local_dir_name=None)
           evmag = get_local_magnitude(st, stations, stlons, stlats, evtime, evlon, evlat, evdep, freqmin=1, freqmax=10, max_epicenter_dist=100)
 
+          # insert event to pygema db
+          insert_event(evtime, evlon, evlat, evdep, evnstats, evgap, evrms, evmag, status="automatic", table="LOC", figs_dir=None)
+
           # export temporal figures
           outdir = 'web/PyGema_Web/PyGema_Web/static/reports/automatic/%s' % ( evtime.strftime("%Y-%m-%dT%H:%M:%S+00:00") )
           if not os.path.isdir(outdir):
@@ -85,16 +88,13 @@ while True:
           plot_map_event(evlon, evlat, evdep, dlon=0.3, dlat=0.3, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=True, add_seismic_stations=True, add_ralco=True, add_labels=True, add_faults=True, dark_background=False, show_plot=False, savedir=outdir)
           plot_record_section(st, stations, stlons, stlats, evtime, evlon, evlat, freqmin=1, freqmax=10, dark_background=False, show_plot=False, savedir=outdir)
 
-          # insert event to pygema db
-          insert_event(evtime, evlon, evlat, evdep, evnstats, evgap, evrms, evmag, status="automatic", table="LOC", figs_dir=None)
-
           # send warning email
           message = "[ automatic ] \n Origin Time: %s   mag = %.1f \n evlon = %.4f deg;  evlat = %.4f deg;  evdep = %.1f km\n recorded by %i stations\n gap = %.1f deg; rms = %.1f" % (evtime.strftime("%Y-%m-%d %H:%M:%S"), evmag, evlon, evlat, evdep, evnstats, evgap, evrms)
           subject = "Warning"
           send_email_with_attached_files(message, subject, figsdir=outdir)
 
           # remove tmp files
-          subprocess.call("rm -r %s" % (outdir) , shell=True)
+          #subprocess.call("rm -r %s" % (outdir) , shell=True)
 
   except:
     pass
