@@ -24,8 +24,11 @@ community/python-mysqlclient
 community/python-pillow
 community/shapelib
 community/sshfs
+core/gcc-fortran
+core/lib32-gcc-libs
 extra/jdk-openjdk
 extra/python-django
+
 
 ################################################################
 # INSTALLATION
