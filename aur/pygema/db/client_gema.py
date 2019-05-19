@@ -27,7 +27,7 @@ import os, subprocess, requests, socket, glob
 def mount_client(server_user, server_dns, server_port, server_buffer_seiscomp, server_archive_seiscomp, local_dir_name=None):
   r = requests.get(r'http://jsonip.com')
   public_ip= r.json()['ip']
-  if (not socket.gethostname()=='sirius') and (not socket.gethostname()=='tremor') and (not socket.gethostname()=='maniedba') and (not public_ip=="xxx.xxx.xxx.51"):
+  if (not socket.gethostname()=='sirius') and (not socket.gethostname()=='tremor') and (not socket.gethostname()=='maniedba') and (not public_ip=="152.74.135.51"):
     if not local_dir_name:
       local_dir_name = "%s/mount" % (os.getenv("HOME"))
 
@@ -55,7 +55,7 @@ def mount_client(server_user, server_dns, server_port, server_buffer_seiscomp, s
 def umount_client(local_dir_name=None):
   r = requests.get(r'http://jsonip.com')
   public_ip= r.json()['ip']
-  if (not socket.gethostname()=='sirius') and (not socket.gethostname()=='tremor') and (not socket.gethostname()=='maniedba') and (not public_ip=="xxx.xxx.xxx.51"):
+  if (not socket.gethostname()=='sirius') and (not socket.gethostname()=='tremor') and (not socket.gethostname()=='maniedba') and (not public_ip=="152.74.135.51"):
     if not local_dir_name:
       local_dir_name = "%s/mount" % (os.getenv("HOME"))
 
@@ -63,11 +63,11 @@ def umount_client(local_dir_name=None):
     local_archive = "%s/seiscomp_data_archive" % (local_dir_name)
 
     if os.path.exists(local_buffer) and os.path.ismount(local_buffer):
-      cmd = "sudo umount %s" % (local_buffer)
+      cmd = "sudo umount -f %s" % (local_buffer)
       subprocess.call(cmd, shell=True)
 
     if os.path.exists(local_archive) and os.path.ismount(local_archive):
-      cmd = "sudo umount %s" % (local_archive)
+      cmd = "sudo umount -f %s" % (local_archive)
       subprocess.call(cmd, shell=True)
 
 
