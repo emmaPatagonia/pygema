@@ -41,12 +41,26 @@ def mount_client(server_user, server_dns, server_port, server_buffer_seiscomp, s
       os.makedirs(local_archive)
 
     if not os.path.ismount(local_buffer):
-      cmd1 = "sshfs %s@%s:%s %s -p %i" % (server_user, server_dns, server_buffer_seiscomp, local_buffer, server_port)
-      subprocess.call(cmd1, shell=True)
+      flag = input("\n+ Do you want to mount BUFFER disk from server ? ")
+      while flag!="yes" and flag !="no":
+        flag = input("+ Do you want to mount BUFFER disk from server ? ")
+        if flag=="yes" or flag =="no":
+          break
+
+      if flag == "yes":
+        cmd1 = "sshfs %s@%s:%s %s -p %i" % (server_user, server_dns, server_buffer_seiscomp, local_buffer, server_port)
+        subprocess.call(cmd1, shell=True)
 
     if not os.path.ismount(local_archive):
-      cmd2 = "sshfs %s@%s:%s %s -p %i" % (server_user, server_dns, server_archive_seiscomp, local_archive, server_port)
-      subprocess.call(cmd2, shell=True)
+      flag = input("\n+ Do you want to mount ARCHIVE disk from server ? ")
+      while flag!="yes" and flag !="no":
+        flag = input("+ Do you want to mount ARCHIVE disk from server ? ")
+        if flag=="yes" or flag =="no":
+          break
+
+      if flag == "yes":
+        cmd2 = "sshfs %s@%s:%s %s -p %i" % (server_user, server_dns, server_archive_seiscomp, local_archive, server_port)
+        subprocess.call(cmd2, shell=True)
 
 
 
