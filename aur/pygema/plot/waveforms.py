@@ -366,7 +366,6 @@ def plot_triggers_stalta(networks, stations, starttime, endtime, freqmin=1, freq
   for i in range(len(stations)):
     network = networks[i]
     station = stations[i]
-    st, gaps = get_streams_gema([network], [station], starttime, endtime, only_vertical_channel=True, local_dir_name=None)
 
     if i == 0:
       ax1 = fig.add_subplot(gs[i])
@@ -395,34 +394,39 @@ def plot_triggers_stalta(networks, stations, starttime, endtime, freqmin=1, freq
     else:
       plt.setp( ax1.get_xticklabels(), visible=False)
 
-    tr = st.select(station=station)
-    if len(tr)>0:
-      tr = tr[0]
-      if not isinstance(tr.data, np.ma.masked_array):
-        tr.detrend('demean')
-        tr.detrend('linear')
-        tr.taper(max_percentage=0.005,type='hann')
-        tr.filter("bandpass", freqmin=freqmin, freqmax=freqmax, corners=2)
+    try:
+      st, gaps = get_streams_gema([network], [station], starttime, endtime, only_vertical_channel=True, local_dir_name=None)
+      tr = st.select(station=station)
+      if len(tr)>0:
+        tr = tr[0]
+        if not isinstance(tr.data, np.ma.masked_array):
+          tr.detrend('demean')
+          tr.detrend('linear')
+          tr.taper(max_percentage=0.005,type='hann')
+          tr.filter("bandpass", freqmin=freqmin, freqmax=freqmax, corners=2)
 
-      if dark_background:
-        ax1.plot(tr.times("matplotlib"), tr.data, lw=0.09, color="0.85")
-      else:
-        ax1.plot(tr.times("matplotlib"), tr.data, lw=0.09, color="k")
-
-
-    triggers_list = select_triggers_stalta(station, starttime, endtime)
-    for trigger in triggers_list:
-      on = date2num(trigger[0].datetime)
-      off = date2num(trigger[1].datetime)
-      y1 = ax1.get_ylim()[0]; y2 = ax1.get_ylim()[1]
-      ax1.axvline(on, y1, y2, lw=0.5, color='r', zorder=100, clip_on=True, alpha=0.9)
-      #ax1.annotate( "P", (on, y2), color='r', zorder=100, fontsize=6)
-      if include_trig_off:
-        ax1.axvline(off, y1, y2, lw=0.7, color='g', zorder=100)
         if dark_background:
-          ax1.add_patch( Rectangle((on, y1), off-on, y2-y1, fill=True, edgecolor=None, facecolor='w', alpha=0.8, linewidth=0, zorder=10) )
+          ax1.plot(tr.times("matplotlib"), tr.data, lw=0.09, color="0.85")
         else:
-          ax1.add_patch( Rectangle((on, y1), off-on, y2-y1, fill=True, edgecolor=None, facecolor='w', alpha=0.8, linewidth=0, zorder=10) )
+          ax1.plot(tr.times("matplotlib"), tr.data, lw=0.09, color="k")
+
+      triggers_list = select_triggers_stalta(station, starttime, endtime)
+      for trigger in triggers_list:
+        on = date2num(trigger[0].datetime)
+        off = date2num(trigger[1].datetime)
+        y1 = ax1.get_ylim()[0]; y2 = ax1.get_ylim()[1]
+        ax1.axvline(on, y1, y2, lw=0.5, color='r', zorder=100, clip_on=True, alpha=0.9)
+        #ax1.annotate( "P", (on, y2), color='r', zorder=100, fontsize=6)
+        if include_trig_off:
+          ax1.axvline(off, y1, y2, lw=0.7, color='g', zorder=100)
+          if dark_background:
+            ax1.add_patch( Rectangle((on, y1), off-on, y2-y1, fill=True, edgecolor=None, facecolor='w', alpha=0.8, linewidth=0, zorder=10) )
+          else:
+            ax1.add_patch( Rectangle((on, y1), off-on, y2-y1, fill=True, edgecolor=None, facecolor='w', alpha=0.8, linewidth=0, zorder=10) )
+
+    except:
+      continue
+
 
 
   if save_plot:
