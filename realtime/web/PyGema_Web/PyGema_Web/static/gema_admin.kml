@@ -83,7 +83,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://192.168.1.28:9000/static/fallas_altobiobio_sielfeld_etal_2019.kml</href>
+        <href>http://192.168.1.28:9000/static/fallas_altobiobio_sielfeld2019.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>

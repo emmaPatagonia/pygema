@@ -18,7 +18,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/stations.kml</href>
+        <href>http://gema.udec.cl/static/stations.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
@@ -31,7 +31,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_last_day.kml</href>
+        <href>http://gema.udec.cl/static/seismic_events_manual_last_day.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
@@ -44,7 +44,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_last_month.kml</href>
+        <href>http://gema.udec.cl/static/seismic_events_manual_last_month.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
@@ -57,7 +57,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_manual_older.kml</href>
+        <href>http://gema.udec.cl/static/seismic_events_manual_older.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
@@ -70,7 +70,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/seismic_events_automatic_last_day.kml</href>
+        <href>http://gema.udec.cl/staticl/seismic_events_automatic_last_day.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
@@ -83,7 +83,7 @@
       <name>GEMA</name>
       <Snippet maxLines="1">Updates every 10 seconds</Snippet>
       <Link>
-        <href>http://gemaudec.dyndns.org:8090/gema/kml/fallas_altobiobio_sielfeld_etal_2019.kml</href>
+        <href>http://gema.udec.cl/static/fallas_altobiobio_sielfeld2019.kml</href>
         <refreshMode>onInterval</refreshMode>
         <refreshInterval>10</refreshInterval>
       </Link>
