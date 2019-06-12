@@ -114,6 +114,37 @@ Configure syncronization with other server
 nano sync.py
 ```
 
+Configure seedlink server:
+
+```
+# instalacion ringserver
+$ git clone https://github.com/iris-edu/ringserver.git
+$ cd ringserver
+$ make
+$ mkdir tlog
+
+# Ante errores comunes de complicacion
+$ sudo pacman -S libdigidocpp	
+$ yay automake #instalar version 1-15
+
+# agregar path 
+$ sudo ln -s ~/ringserver/ringserver /usr/local/bin/ringserver
+
+#crear un archivo de configuracion
+$ nano server.conf
+RingDirectory ring
+DataLinkPort 16000
+SeedLinkPort 18000
+ServerID "Seismic Network"
+TransferLogDirectory tlog
+TransferLogRX 0
+MSeedScan /path/GM/ StateFile=scan.state InitCurrentState
+
+
+#lanzar servidor
+$ ringserver server.conf
+```
+
 Execute realtime rountines
 ```
 chmod a+x gema-init-monitoring
