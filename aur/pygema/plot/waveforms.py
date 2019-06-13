@@ -382,7 +382,7 @@ def plot_triggers_stalta(networks, stations, starttime, endtime, freqmin=1, freq
     ax1.spines['top'].set_visible(False)
     ax1.spines['left'].set_visible(False)
     ax1.spines['bottom'].set_visible(False)
-    ax1.set_ylabel(network+"."+station, fontsize=6, rotation=0, labelpad=10)
+    ax1.set_ylabel(network+"."+station, fontsize=5, rotation=0, labelpad=10)
     ax1.xaxis.set_major_formatter(date_format)
     ax1.set_xlim([ date2num(starttime.datetime), date2num(endtime.datetime) ])
     plt.setp( ax1.get_yticklabels(), visible=False)
