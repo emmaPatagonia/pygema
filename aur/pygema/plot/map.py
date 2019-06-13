@@ -34,7 +34,7 @@ from pygema.db.ask import select_events_manual_loc
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-def plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=False, add_seismic_stations=False, add_ralco=False, add_labels=False, add_faults=False, add_events_pygemadb=False, dark_background=False, show_plot=True, savedir=None):
+def plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=False, add_seismic_stations=False, add_ralco=False, add_labels=False, add_faults=False, add_events_pygemadb=False, evstarttime=UTCDateTime(1970,1,1), evendtime=UTCDateTime(), dark_background=False, show_plot=True, savedir=None):
 
   if dark_background:
     plt.style.use(['dark_background'])
@@ -61,13 +61,13 @@ def plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene
   map.arcgisimage(service='World_Shaded_Relief', xpixels=xpixels, dpi=dpi, verbose=False, zorder=1)
   img = map.arcgisimage(service='ESRI_Imagery_World_2D', xpixels=xpixels, dpi=dpi, verbose=False, zorder=0)
   if add_events_pygemadb:
+    map.fillcontinents(color='0.3', lake_color='steelblue',alpha=0.4,zorder=1)
     img.set_alpha(0.45)
-    color_stations = '0.2'
-    color_stations = 'y'
-    color_volcanoes = 'r'
+    color_stations = '0.8'
+    color_volcanoes = '0.8'
     color_faults = 'k'
-    color_places = 'c'
-    alpha=0.6
+    color_places = '0.8'
+    alpha=0.8
   else:
     img.set_alpha(0.6)
     color_stations = 'y'
@@ -137,7 +137,7 @@ def plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene
 
   # add seismicity
   if add_events_pygemadb:
-    events_list = select_events_manual_loc( UTCDateTime(1970, 1,1), UTCDateTime(), table="LOC")
+    events_list = select_events_manual_loc( evstarttime, evendtime, table="LOC")
 
     zmin = 0
     zmax = 30
@@ -179,7 +179,7 @@ def plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene
 
   leg = plt.legend([s2, s1, f1, f2], 
                    [ 'Volcano', 'Seismic station', 'Liquiñe-Ofqui\nFault System', 'Biobio Fault' ], 
-                 fontsize=5, ncol=1, frameon=True, fancybox=True, shadow=False, framealpha=0.5, loc=4 ) 
+                 fontsize=5, ncol=1, frameon=True, fancybox=True, shadow=False, framealpha=0.3, loc=4 ) 
   leg.set_zorder(1000)
 
 

@@ -30,7 +30,7 @@ def get_credentials_sqldb():
   r = requests.get(r'http://jsonip.com')
   public_ip= r.json()['ip']
 
-  if public_ip=="xxx.xxx.xxx.51":
+  if public_ip=="152.74.135.51":
     credentials_file = "%s/src/credentials_mysqldb_admin" % (PYGEMA_PATH)
   else:
     credentials_file = "%s/src/credentials_mysqldb_user" % (PYGEMA_PATH)

@@ -24,18 +24,16 @@ import subprocess, time, glob, os
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-def connect_slinkserver_station(dns, archive_path=None, delay=5):
+def connect_slinkserver_gema(slink_address, archive_path=None, delay=5):
   if not archive_path:
     archive_path = "%s/archive" % (os.getenv("HOME"))
 
   if not os.path.isdir(archive_path):
     os.mkdir(archive_path)
 
-  print("\n+ Archive path set to %s" % (archive_path) )
-  for slink_address in dns:
-    print( "      seedlink --> %s" % (slink_address) )
-    cmd = "slinktool -nd %i %s -SDS %s &" % (delay, slink_address, archive_path)
-    subprocess.call(cmd, shell=True)
+  print("+ Connecting to seedlink server --> %s" % (slink_address) )
+  cmd = "slinktool -nd %i %s -SDS %s &" % (delay, slink_address, archive_path)
+  subprocess.call(cmd, shell=True)
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -49,7 +47,6 @@ def connect_slinkserver(slinkserver, network, station, selectors, archive_path=N
 
   print("+ Connecting to seedlink server --> %s  (%s %s %s)" % (slinkserver, network, station, selectors) )
   cmd = "slinktool -nd %i -s '%s?' -S '%s_%s' %s -SDS %s &" % (delay, selectors, network, station, slinkserver, archive_path)
-
   subprocess.call(cmd, shell=True)
 
 
