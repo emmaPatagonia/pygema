@@ -1,6 +1,7 @@
 #! /bin/bash
 
 nohup python live_data_adquisition.py &
+nohup python sync_scream.py &
 
 nohup python do_autopick.py &
 nohup python do_autoloc.py &
