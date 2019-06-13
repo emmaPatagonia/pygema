@@ -23,9 +23,47 @@
 import sys, os, glob, datetime, MySQLdb, time, socket, subprocess, requests
 from obspy.core import UTCDateTime, read, Stream
 
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 def get_streams_gema(networks, stations, starttime, endtime, only_vertical_channel=False, local_dir_name=None):
+  if not local_dir_name:
+    local_dir_name = "%s/archive" % (os.getenv("HOME"))
+
+  st = Stream()
+  if only_vertical_channel:
+    channels = "*Z"
+  else:
+    channels = "*"
+
+  # read archive directory
+  for network, station in zip(networks, stations):
+    this_day = UTCDateTime(starttime.strftime("%Y-%m-%d"))
+    last_day = UTCDateTime(endtime.strftime("%Y-%m-%d"))
+    while this_day <= last_day:
+      pattern = '%s/%s/%s/%s/%s*' % (local_dir_name, this_day.strftime("%Y"), network, station, channels )
+      paths_ch = sorted(glob.glob(pattern))
+      for path in paths_ch:
+        pattern = "%s/*%s" % (path, this_day.strftime("%Y.%03j"))
+        msfile_list = glob.glob(pattern)
+        if len(msfile_list)>0:
+          for msfile in msfile_list:
+            st += read(msfile, starttime=starttime, endtime=endtime)
+
+      this_day += 86400
+
+  gaps = st.get_gaps()
+  if len(st)>0: # and len(gaps)>0
+    st.trim(starttime, endtime)
+    st.merge(method=1, interpolation_samples=-1, fill_value='interpolate')
+    
+  return st, gaps
+
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+def get_streams_gema_old(networks, stations, starttime, endtime, only_vertical_channel=False, local_dir_name=None):
   if not local_dir_name:
     local_dir_name = "%s/mount" % (os.getenv("HOME"))
 
