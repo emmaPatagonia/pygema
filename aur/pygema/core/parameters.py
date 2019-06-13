@@ -37,6 +37,23 @@ def load_station_metadata(stations_file=None):
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+def load_seedlink_dns(dns_file=None):
+  if dns_file is None:
+    PYGEMA_PATH = "%s/pygema" % (site.getsitepackages()[0])
+    dns_file = "%s/src/stationDNS.lst" % (PYGEMA_PATH)
+
+  lines = np.loadtxt(dns_file, dtype='str')
+
+  dns = []
+  for line in lines:
+    slink_address = "%s:%s" % (line[0], line[1])
+    dns.append(slink_address)
+
+  return dns
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
 def load_volcanoes(volcanoes_file=None):
   if volcanoes_file is None:
     PYGEMA_PATH = "%s/pygema" % (site.getsitepackages()[0])
