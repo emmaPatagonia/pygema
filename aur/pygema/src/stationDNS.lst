@@ -1,8 +1,2 @@
-# DNS-address PORT-seedlink
-callaquiudec.dyndns.org      18000  CALL
-copahueudec.dyndns.org       18000  COP2
-copahueudec.dyndns.org       18001  COPA
-lagunablancaudec.dyndns.org  18000  TOL1
-lonquimayudec.dyndns.org     18000 	LONQ
-manzanarudec.dyndns.org      18000 	MANZ
-palmuchoudec.dyndns.org      18000  MAYA
+# DNS-address PORT-seedlink stationname
+
