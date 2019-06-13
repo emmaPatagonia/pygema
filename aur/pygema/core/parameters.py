@@ -37,7 +37,7 @@ def load_station_metadata(stations_file=None):
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
-def load_seedlink_dns(dns_file=None):
+def load_seedlink_dns(station, dns_file=None):
   if dns_file is None:
     PYGEMA_PATH = "%s/pygema" % (site.getsitepackages()[0])
     dns_file = "%s/src/stationDNS.lst" % (PYGEMA_PATH)
@@ -45,11 +45,16 @@ def load_seedlink_dns(dns_file=None):
   lines = np.loadtxt(dns_file, dtype='str')
 
   dns = []
+  stations = []
   for line in lines:
     slink_address = "%s:%s" % (line[0], line[1])
     dns.append(slink_address)
+    stations.append(line[2])
 
-  return dns
+  ind = np.where( np.array(stations)==station )[0][0]
+  slink_address = np.array(dns)[ind]
+
+  return slink_address
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
