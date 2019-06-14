@@ -28,7 +28,7 @@ while True:
 
         msfile = "%s/archive/%s/%s/%s/%s.D/%s.%s..%s.D.%s" % (os.getenv("HOME"), utc_now.strftime("%Y"), stnet_seiscomp, stname_seiscomp,channel, stnet_seiscomp,stname_seiscomp, channel, utc_now.strftime("%4Y.%03j"))
         st.sort()
-        st.write(msfile, "MSEED")
+        st.write(msfile, format="MSEED", reclen=512)
 
   except:
     pass
