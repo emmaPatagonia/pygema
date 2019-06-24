@@ -30,17 +30,17 @@ def get_streams_gema(networks, stations, starttime, endtime, only_vertical_chann
   if not local_dir_name:
     local_dir_name = "%s/archive" % (os.getenv("HOME"))
 
-  st = Stream()
   if only_vertical_channel:
     channels = "*Z"
   else:
     channels = "*"
 
-  # read archive directory
-  for network, station in zip(networks, stations):
-    this_day = UTCDateTime(starttime.strftime("%Y-%m-%d"))
-    last_day = UTCDateTime(endtime.strftime("%Y-%m-%d"))
-    while this_day <= last_day:
+  # READ ARCHIVE DATABASE
+  st = Stream()
+  this_day = UTCDateTime(starttime.strftime("%Y-%m-%d"))
+  last_day = UTCDateTime(endtime.strftime("%Y-%m-%d"))
+  while this_day <= last_day:
+    for network, station in zip(networks, stations):
       pattern = '%s/%s/%s/%s/%s*' % (local_dir_name, this_day.strftime("%Y"), network, station, channels )
       paths_ch = sorted(glob.glob(pattern))
       for path in paths_ch:
@@ -50,8 +50,14 @@ def get_streams_gema(networks, stations, starttime, endtime, only_vertical_chann
           for msfile in msfile_list:
             st += read(msfile, starttime=starttime, endtime=endtime)
 
-      this_day += 86400
+    this_day += 86400
 
+  # PATCH PROBLEM DIFFERENT SAMPLING RATES IN LONQ STATION FROM SCREAM
+  for tr in st.select(station="LONQ"):
+    if tr.stats.sampling_rate != 50:
+      st.remove(tr)
+
+  # EXPORT GAPS AND MERGE STREAM
   gaps = st.get_gaps()
   if len(st)>0: # and len(gaps)>0
     st.trim(starttime, endtime)
