@@ -42,7 +42,7 @@ from pygema.db.email import send_email_with_attached_files
 this_event, idxev, events_list = select_event_from_database(UTCDateTime(1970, 1,1), UTCDateTime().now(), table="LOC")
 
 networks, stations, stlons, stlats, stalts = load_station_metadata()
-outdir = build_event_directory_for_nonlinloc(this_event[0], networks, stations, freqmin=1, freqmax=10, deconvolve=True, only_vertical_channel=False, time_before=60, time_after=300)
+outdir = build_event_directory_for_nonlinloc(this_event[0], networks, stations, freqmin=1, freqmax=10, deconvolve=False, only_vertical_channel=False, time_before=60, time_after=300)
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # CHECK IF SEISMIC EVENT IS CONFIRMED OR REJECTED
