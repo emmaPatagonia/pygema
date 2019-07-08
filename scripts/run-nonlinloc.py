@@ -110,13 +110,13 @@ if flag=="yes":
           break
 
       if flag=="yes":
-        # read new localization 
+        # read new localization and clear old tmp folders
         evtime_old = this_event[0]
         evtime, evlon, evlat, evdepth, evrms, everrx, everry, everrz = read_nonlinloc_locfile(locfile)
+        subprocess.call("rm -r %s" % (outdir) , shell=True)
 
         # calculate new magnitude
         print("+ Calculating new magnitude ...")
-        subprocess.call("rm -r %s" % (outdir) , shell=True)
         outdir_new = build_event_directory_for_nonlinloc(evtime, networks, stations, freqmin=1, freqmax=10, deconvolve=False, only_vertical_channel=True, time_before=60, time_after=300)
         sacfiles = glob.glob( outdir_new + "/*HZ*.sac" )  
         st = Stream()
@@ -135,20 +135,23 @@ if flag=="yes":
         update_event_status(origin_time=evtime, status="manual", table="LOC")
 
         # plot localization figures
+        print("+ Exporting record section and localization map ...")
         plot_map_event(evlon, evlat, evdepth, dlon=0.3, dlat=0.3, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=True, add_seismic_stations=True, add_ralco=True, add_labels=True, add_faults=True, dark_background=False, show_plot=False, savedir=outdir_new)
         plot_record_section(st.select(channel='*HZ'), stations, stlons, stlats, evtime, evlon, evlat, freqmin=1, freqmax=10, dark_background=False, show_plot=False, savedir=outdir_new)
-        subprocess.call( "rm %s/*sac" % (outdir_new) , shell=True)
 
         # send email
+        subprocess.call("rm %s/*sac" % (outdir_new) , shell=True)
         print("+ Sending email ...")
         message = "[ manual ] \n Origin Time: %s   mag = %.1f \n evlon = %.4f deg;  evlat = %.4f deg;  evdep = %.1f km \n errX = %.1f km; errY = %.1f km; errZ = %.1f km" % (evtime.strftime("%Y-%m-%d %H:%M:%S"), evmag, evlon, evlat, evdepth, everrx, everry, everrz)
         subject = "Warning"
         send_email_with_attached_files(message, subject, figsdir=outdir_new)
+
+        # clear tmp folders
         subprocess.call("rm -r %s" % (outdir_new) , shell=True)
+
 
       elif flag=="no":
         subprocess.call( "rm -r %s" % (outdir) , shell=True)
-
         flag = input("\n+ Do you want to reject event? (yes/no): ")
         while flag!="yes" and flag !="no":
           flag = input("+ Do you want to reject event? (yes/no): ")
@@ -157,19 +160,15 @@ if flag=="yes":
 
         if flag=="yes":
           update_event_status(origin_time=this_event[0], status="rejected", table="LOC")
-          print("+ Event rejected ...\n\nEOF")
+          print("+ Event rejected ")
 
     except:
-      print("+ It seems that the event file is empty (%s) ..." % (locfile) )
+      print("+ It seems that there is a problem with the new localization ..." )
+
 
   else:
     if os.path.isdir( outdir ):
       subprocess.call( "rm -r %s" % (outdir) , shell=True)
 
 
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
-
-
-
+print("\n\nEOF")

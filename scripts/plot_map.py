@@ -20,8 +20,8 @@
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
+from obspy.core import UTCDateTime
 from pygema.plot.map import plot_map
-
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -31,7 +31,11 @@ wlon = -71.75
 nlat = -37.7
 slat = -38.6
 
-plot_map(elon, wlon, nlat, slat, res='c', dpi=300, xpixels=800, add_holocene_volcanoes=True, add_seismic_stations=True, add_ralco=True, add_labels=False, add_faults=True, add_events_pygemadb=True, dark_background=False, show_plot=False, savedir='figs')
+plot_map(elon, wlon, nlat, slat, res='f', dpi=300, xpixels=1920, 
+	      add_holocene_volcanoes=True, add_seismic_stations=True, add_ralco=True, 
+	      add_labels=True, add_faults=True, add_events_pygemadb=True, 
+	      evstarttime=UTCDateTime(2019,6,1), evendtime=UTCDateTime(2019,7,1), 
+	      dark_background=False, show_plot=False, savedir='figs')
 
 
 
