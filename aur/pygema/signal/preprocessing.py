@@ -23,6 +23,8 @@
 import matplotlib.pyplot as plt
 from obspy.core import UTCDateTime
 from obspy.io.xseed import Parser
+from obspy.signal import PPSD
+from obspy.imaging.cm import pqlx
 import glob, site
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
@@ -45,3 +47,14 @@ def remove_instrument_response(tr, pre_filt=(0.01, 0.02, 50, 100), detrend=True,
   tr.simulate(paz_remove=paz, pre_filt=pre_filt, paz_simulate=None, remove_sensitivity=True)
 
   return tr
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+
+def init_ppsd_dataless(tr, dataless_file):
+  parser = Parser(dataless_file)
+  paz = parser.get_paz(tr.id)
+  ppsd = PPSD(tr.stats, metadata=paz)
+  return ppsd
+
+
